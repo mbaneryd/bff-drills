@@ -682,21 +682,45 @@ footer{margin-top:2rem;font-size:.8rem;color:#999;text-align:center}
 <footer>Järna Sportklubb Övningsbank – Version 1.0 Februari 2022</footer>
 <script>
 let activeGroup = 'all';
+const searchEl = document.getElementById('search');
 function filterGroup(btn, g) {
   activeGroup = g;
   document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   applyFilters();
 }
-document.getElementById('search').addEventListener('input', applyFilters);
+searchEl.addEventListener('input', applyFilters);
 function applyFilters() {
-  const q = document.getElementById('search').value.toLowerCase();
+  const q = searchEl.value.toLowerCase();
   document.querySelectorAll('.card').forEach(c => {
     const gOk = activeGroup === 'all' || c.dataset.age === activeGroup;
     const tOk = !q || c.textContent.toLowerCase().includes(q);
     c.classList.toggle('hidden', !(gOk && tOk));
   });
+  syncToHash();
 }
+
+function syncToHash() {
+  const p = new URLSearchParams();
+  if (activeGroup !== 'all') p.set('group', activeGroup);
+  if (searchEl.value) p.set('q', searchEl.value);
+  const h = p.toString();
+  history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
+}
+
+function loadFromHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  activeGroup = p.get('group') || 'all';
+  searchEl.value = p.get('q') || '';
+  document.querySelectorAll('.btn').forEach(b => {
+    const isAll = b.textContent.startsWith('Alla');
+    b.classList.toggle('active', activeGroup === 'all' ? isAll : b.getAttribute('onclick')?.includes("'" + activeGroup + "'"));
+  });
+  applyFilters();
+}
+
+window.addEventListener('popstate', loadFromHash);
+loadFromHash();
 </script>
 </body>
 </html>

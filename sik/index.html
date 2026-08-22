@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SIK Övningsbank – 5v5</title>
+<style>
+*{box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;margin:0;padding:1rem 2rem;background:#f5f5f5;color:#333}
+h1{color:#1a5c2e}
+.subtitle{color:#555;margin-bottom:1.5rem}
+.controls{display:flex;gap:.5rem;flex-wrap:wrap;margin-bottom:1.5rem;align-items:center}
+.controls input{padding:.4rem .8rem;border:1px solid #ccc;border-radius:6px;font-size:.95rem;flex:1;min-width:200px}
+.btn{padding:.35rem .8rem;border:1px solid #ccc;border-radius:6px;cursor:pointer;background:white;font-size:.85rem}
+.btn.active{background:#2e7d32;color:white;border-color:#2e7d32}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:1rem}
+.card{display:block;background:white;border-radius:8px;padding:1rem;text-decoration:none;color:inherit;box-shadow:0 1px 3px rgba(0,0,0,.1);transition:box-shadow .15s}
+.card:hover{box-shadow:0 3px 12px rgba(0,0,0,.15)}
+.card-type{font-size:.75rem;color:#999;margin-bottom:.2rem;text-transform:uppercase;letter-spacing:.03em}
+.card-title{font-weight:600;font-size:1rem;margin-bottom:.4rem;color:#1a5c2e}
+.card-meta{display:flex;gap:.3rem;margin-bottom:.4rem;flex-wrap:wrap}
+.tag{padding:.15rem .5rem;border-radius:1rem;font-size:.75rem;font-weight:600}
+.tag.fmt{background:#fff3e0;color:#e65100}
+.tag.tema{background:#e8f5e9;color:#2e7d32}
+.card-purpose{font-size:.82rem;color:#666;line-height:1.4}
+.hidden{display:none}
+footer{margin-top:2rem;font-size:.8rem;color:#999;text-align:center}
+</style>
+</head>
+<body>
+<h1>SIK Övningsbank – 5v5</h1>
+<p class="subtitle">Sundbybergs IK Träningsplaneringar – 61 övningar</p>
+<div class="controls">
+  <input type="search" id="search" placeholder="Sök övning...">
+  <button class="btn active" onclick="filterTema(this,'all')">Alla</button>
+  <button class="btn" onclick="filterTema(this,'Behålla boll')">Behålla boll</button>
+  <button class="btn" onclick="filterTema(this,'Behålla boll (Orientering, driva)')">Behålla boll (Orientering, driva)</button>
+  <button class="btn" onclick="filterTema(this,'Behålla boll (Speluppbyggnad, spelbarhet)')">Behålla boll (Speluppbyggnad, spelbarhet)</button>
+  <button class="btn" onclick="filterTema(this,'Fotbollskoordination')">Fotbollskoordination</button>
+  <button class="btn" onclick="filterTema(this,'Komma till avslut')">Komma till avslut</button>
+  <button class="btn" onclick="filterTema(this,'Komma till avslut/Förhindra avslut')">Komma till avslut/Förhindra avslut</button>
+</div>
+<div class="grid" id="grid">
+<a class="card" href="sik_5v5_03_komma_till_avslut_fardigheter_1_p2.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5 min</div>
+  <div class="card-title">Bollkull</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">på bollen så att den alltid är nära fötterna. De ska hela tiden även Spelarna lär sig behandla bollen och orientera sig </div>
+</a>
+<a class="card" href="sik_5v5_03_komma_till_avslut_fardigheter_1_p4.html" data-tema="Komma till avslut" data-type="Station 1">
+  <div class="card-type">Station 1 · 10 min</div>
+  <div class="card-title">Distansskott</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">Komma till avslut och försöka göra mål och förhindra att det blir mål</div>
+</a>
+<a class="card" href="sik_5v5_03_komma_till_avslut_fardigheter_1_p5.html" data-tema="Komma till avslut" data-type="Station 1">
+  <div class="card-type">Station 1 · 10 min</div>
+  <div class="card-title">Passa, driva, skjut</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">Vi tränar på att passa, ta emot boll, driva och komma till avslut. I försvarsspelet tränar på att rädda bollen</div>
+</a>
+<a class="card" href="sik_5v5_03_komma_till_avslut_fardigheter_1_p6.html" data-tema="Komma till avslut" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_03_komma_till_avslut_fardigheter_1_p7.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_04_komma_till_avslut_fardigheter_2_p2.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5 min</div>
+  <div class="card-title">Stafett</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">Förbättra fotarbete och snabbhet</div>
+</a>
+<a class="card" href="sik_5v5_04_komma_till_avslut_fardigheter_2_p4.html" data-tema="Komma till avslut" data-type="Station 1">
+  <div class="card-type">Station 1 · 15 min</div>
+  <div class="card-title">PAssning och skott</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">Anfallsspel tränar på att passa och komma till avslut</div>
+</a>
+<a class="card" href="sik_5v5_04_komma_till_avslut_fardigheter_2_p5.html" data-tema="Komma till avslut" data-type="Station 1">
+  <div class="card-type">Station 1 · 10 min</div>
+  <div class="card-title">Isolerade skott</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_04_komma_till_avslut_fardigheter_2_p6.html" data-tema="Komma till avslut" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_04_komma_till_avslut_fardigheter_2_p7.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p2.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5 min</div>
+  <div class="card-title">Stafett</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose">Förbättra fotarbete och snabbhet</div>
+</a>
+<a class="card" href="sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p3.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Station 1">
+  <div class="card-type">Station 1 · 10 min</div>
+  <div class="card-title">1 mot 1</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose">Träna matchlikt. Anfallsspel tränar på att passera motståndare med boll på valfritt vis (tex driva, vända, utmana) och k</div>
+</a>
+<a class="card" href="sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p4.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15-20 min</div>
+  <div class="card-title">3 mot 2 + mv</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p5.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p6.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p7.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p2.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p3.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 10-15 min</div>
+  <div class="card-title">Stafett med drivning</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose">Förbättra fotarbete och snabbhet sprungit är de klara.</div>
+</a>
+<a class="card" href="sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p4.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15-20 min</div>
+  <div class="card-title">2 mot 2</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p5.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 20-25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p6.html" data-tema="Komma till avslut/Förhindra avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut/Förhindra avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p2.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">Förbättra fotarbete och snabbhet</div>
+</a>
+<a class="card" href="sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p4.html" data-tema="Komma till avslut" data-type="Station 1">
+  <div class="card-type">Station 1 · 10 min</div>
+  <div class="card-title">2 mot 1</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">motståndaren och komma till avslut. Försvarande spelare ska Träna matchlikt. Anfallsspel tränar på att passera motstånda</div>
+</a>
+<a class="card" href="sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p5.html" data-tema="Komma till avslut" data-type="Station 2">
+  <div class="card-type">Station 2 · 10 min</div>
+  <div class="card-title">Inte nudda boll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose">Tränar orientering hos spelarna som springer. Tränar bollträff hos skyttarna. Instruera vart stödjebenet ska vara i förh</div>
+</a>
+<a class="card" href="sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p6.html" data-tema="Komma till avslut" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p7.html" data-tema="Komma till avslut" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 10 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Komma till avslut</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_08_behalla_boll_1_p2.html" data-tema="Behålla boll" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5 min</div>
+  <div class="card-title">Bollkull</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll</span>
+  </div>
+  <div class="card-purpose">på bollen så att den alltid är nära fötterna. De ska hela tiden även Spelarna lär sig behandla bollen och orientera sig </div>
+</a>
+<a class="card" href="sik_5v5_08_behalla_boll_1_p4.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Jaga bollhållare</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">Driva och behålla bollen</div>
+</a>
+<a class="card" href="sik_5v5_08_behalla_boll_1_p5.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Blå och gul</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">Spelarna lär sig reagera snabbt och springa ifrån motståndarna med och utan boll</div>
+</a>
+<a class="card" href="sik_5v5_08_behalla_boll_1_p6.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_08_behalla_boll_1_p7.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_09_behalla_boll_2_p2.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5 min</div>
+  <div class="card-title">Bollkull</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">på bollen så att den alltid är nära fötterna. De ska hela tiden även Spelarna lär sig behandla bollen och orientera sig </div>
+</a>
+<a class="card" href="sik_5v5_09_behalla_boll_2_p4.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Övning">
+  <div class="card-type">Övning · 20 min</div>
+  <div class="card-title">Spel mot 2 mål</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">Dela in i lag - Gärna 3v3. Spelarna lär sig upptäcka fria ytor Spelövningen syftar till att träna både på anfallsspel oc</div>
+</a>
+<a class="card" href="sik_5v5_09_behalla_boll_2_p5.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Övning">
+  <div class="card-type">Övning · 20 min</div>
+  <div class="card-title">Doppboll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">Spelarna lär sig hur bollbanan fungerar i luften, dom lär sig att fånga och kasta bollen. Spelarna lär sig även att hitt</div>
+</a>
+<a class="card" href="sik_5v5_09_behalla_boll_2_p6.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_09_behalla_boll_2_p7.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_10_behalla_boll_3_p2.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Passningsspel med High Five</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">tillslaget få bollen i en den riktning du vill passa eller driva bollen. Spelarna lär sig behandla bollen och orientera </div>
+</a>
+<a class="card" href="sik_5v5_10_behalla_boll_3_p3.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Driva 2 och 2</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">Genom tempoväxling, riktningsförändring och spelbarhet så lär sig spelare att ta bollen framåt för att kunna göra mål. I</div>
+</a>
+<a class="card" href="sik_5v5_10_behalla_boll_3_p4.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_10_behalla_boll_3_p5.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_11_behalla_boll_4_p3.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Passa behålla boll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">Behålla bollen inom laget</div>
+</a>
+<a class="card" href="sik_5v5_11_behalla_boll_4_p4.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Passa ta emot &amp; driv</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_11_behalla_boll_4_p5.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_11_behalla_boll_4_p6.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_12_behalla_boll_5_p2.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Behålla boll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose">på bollen så att den alltid är nära fötterna. De ska hela tiden även Spelarna lär sig behandla bollen och orientera sig </div>
+</a>
+<a class="card" href="sik_5v5_12_behalla_boll_5_p3.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 20 min</div>
+  <div class="card-title">Behålla boll i lag</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_12_behalla_boll_5_p4.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_12_behalla_boll_5_p5.html" data-tema="Behålla boll (Speluppbyggnad, spelbarhet)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Speluppbyggnad, spelbarhet)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_13_behalla_boll_6_p2.html" data-tema="Behålla boll (Orientering, driva)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Intervallträning med boll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Orientering, driva)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_13_behalla_boll_6_p3.html" data-tema="Behålla boll (Orientering, driva)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Driva till linjer</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Orientering, driva)</span>
+  </div>
+  <div class="card-purpose">Spelarna driver runt i ytan, utan att krocka med varandra Spelarna lär sig bollbehandling samt får upp blicken eller nud</div>
+</a>
+<a class="card" href="sik_5v5_13_behalla_boll_6_p4.html" data-tema="Behålla boll (Orientering, driva)" data-type="Spelsövning">
+  <div class="card-type">Spelsövning · 25 min</div>
+  <div class="card-title">Spelsövning (match)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Orientering, driva)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_13_behalla_boll_6_p5.html" data-tema="Behålla boll (Orientering, driva)" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 15 min</div>
+  <div class="card-title">Lek (fritt val)</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Behålla boll (Orientering, driva)</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p2.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Blå och gul</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Spelarna lär sig reagera snabbt och springa ifrån spelaren hinner nudda spelaren på ryggen motståndarna med och utan bol</div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p3.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Bollstafett Kasta-Fånga</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Koordinationsträning tränar förmågan att samordna utgångspositioner. Genomför övningen på tid och uppmuntra kroppsrörels</div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p4.html" data-tema="Fotbollskoordination" data-type="Lek">
+  <div class="card-type">Lek · 15 min</div>
+  <div class="card-title">Kona eller boll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p5.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Bollstafett Över-Under</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Koordinationsträning tränar förmågan att samordna ställer sig först. Upprepa tills spelarna återgått till sina kroppsrör</div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p6.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Motorikstopp</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Koordinationsträning tränar förmågan att samordna spelarna göra olika saker som siffran anger. Tex “1 - Stå på ett kropp</div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p7.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Stafettormen</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Koordinationsträning tränar förmågan att samordna Springa Dela in barnen i lag med fyra barn i varje lag och ställ lagen</div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p8.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Uppmaningar med boll</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Koordinationsträning tränar förmågan att samordna -Sitt på marken och kasta upp bollen i luften. Res dig upp och kroppsr</div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p9.html" data-tema="Fotbollskoordination" data-type="Lek">
+  <div class="card-type">Lek · 15 min</div>
+  <div class="card-title">Bollring</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose"></div>
+</a>
+<a class="card" href="sik_5v5_14_fotbollskoordination_p10.html" data-tema="Fotbollskoordination" data-type="Färdighetsövning">
+  <div class="card-type">Färdighetsövning · 5-10 min</div>
+  <div class="card-title">Uppmaningar parvis</div>
+  <div class="card-meta">
+    <span class="tag fmt">5v5</span>
+    <span class="tag tema">Fotbollskoordination</span>
+  </div>
+  <div class="card-purpose">Koordinationsträning tränar förmågan att samordna Spring och kasta bollen till varandra. kroppsrörelser i förhållande ti</div>
+</a>
+</div>
+<footer>Sundbybergs IK – Träningsplaneringar 5v5</footer>
+<script>
+let activeTema = 'all';
+const searchEl = document.getElementById('search');
+function filterTema(btn, t) {
+  activeTema = t;
+  document.querySelectorAll('.btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  applyFilters();
+}
+searchEl.addEventListener('input', applyFilters);
+function applyFilters() {
+  const q = searchEl.value.toLowerCase();
+  document.querySelectorAll('.card').forEach(c => {
+    const tOk = activeTema === 'all' || c.dataset.tema === activeTema;
+    const sOk = !q || c.textContent.toLowerCase().includes(q);
+    c.classList.toggle('hidden', !(tOk && sOk));
+  });
+  syncToHash();
+}
+
+function syncToHash() {
+  const p = new URLSearchParams();
+  if (activeTema !== 'all') p.set('tema', activeTema);
+  if (searchEl.value) p.set('q', searchEl.value);
+  const h = p.toString();
+  history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
+}
+
+function loadFromHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  activeTema = p.get('tema') || 'all';
+  searchEl.value = p.get('q') || '';
+  document.querySelectorAll('.btn').forEach(b => {
+    const isAll = b.textContent.startsWith('Alla');
+    b.classList.toggle('active', activeTema === 'all' ? isAll : b.getAttribute('onclick')?.includes("'" + activeTema + "'"));
+  });
+  applyFilters();
+}
+
+window.addEventListener('popstate', loadFromHash);
+loadFromHash();
+</script>
+</body>
+</html>
