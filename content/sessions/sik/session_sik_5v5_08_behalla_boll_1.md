@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/session_sik_5v5_08_behalla_boll_1.html"
 title: "SIK 5v5 – Behålla boll"
 sessionId: "sik_5v5_08_behalla_boll_1"
 source: "sik_traningsplanering"

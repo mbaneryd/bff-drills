@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_46977.html"
 title: "SvFF MV D. Träningspass spelformen 5 mot 5: Förhindra och rädda avslut"
 sessionId: "46977"
 source: "svff_ovningsbanken"

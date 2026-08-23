@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_04_komma_till_avslut_fardigheter_2_p4.html"
 title: "PAssning och skott"
 exerciseId: "sik_5v5_04_komma_till_avslut_fardigheter_2_p4"
 source: "sik_traningsplanering"

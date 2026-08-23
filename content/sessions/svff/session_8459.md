@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_8459.html"
 title: "Fotbollsskola 10-12 år - Dag 3 Förmiddag"
 sessionId: "8459"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_13_behalla_boll_6_p3.html"
 title: "Driva till linjer"
 exerciseId: "sik_5v5_13_behalla_boll_6_p3"
 source: "sik_traningsplanering"

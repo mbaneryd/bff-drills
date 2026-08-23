@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7082.html"
 title: "Träningsprogram B Ungdom - Spelbarhet och spelavstånd"
 sessionId: "7082"
 source: "svff_ovningsbanken"

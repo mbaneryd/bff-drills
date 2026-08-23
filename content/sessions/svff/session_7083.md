@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7083.html"
 title: "Träningsprogram B Ungdom - Spelbredd och speldjup"
 sessionId: "7083"
 source: "svff_ovningsbanken"

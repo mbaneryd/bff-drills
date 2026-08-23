@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p9.html"
 title: "Bollring"
 exerciseId: "sik_5v5_14_fotbollskoordination_p9"
 source: "sik_traningsplanering"

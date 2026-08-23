@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_09_behalla_boll_2_p4.html"
 title: "Spel mot 2 mål"
 exerciseId: "sik_5v5_09_behalla_boll_2_p4"
 source: "sik_traningsplanering"

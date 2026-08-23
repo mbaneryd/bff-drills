@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p5.html"
 title: "Bollstafett Över-Under"
 exerciseId: "sik_5v5_14_fotbollskoordination_p5"
 source: "sik_traningsplanering"

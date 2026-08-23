@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_12_behalla_boll_5_p2.html"
 title: "Behålla boll"
 exerciseId: "sik_5v5_12_behalla_boll_5_p2"
 source: "sik_traningsplanering"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38040.html"
 title: "5 mot 5 utmana, finta, dribbla - bryta"
 sessionId: "38040"
 source: "svff_ovningsbanken"

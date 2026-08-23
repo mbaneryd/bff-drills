@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p6.html"
 title: "Motorikstopp"
 exerciseId: "sik_5v5_14_fotbollskoordination_p6"
 source: "sik_traningsplanering"

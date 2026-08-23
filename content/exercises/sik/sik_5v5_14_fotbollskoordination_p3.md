@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p3.html"
 title: "Bollstafett Kasta-Fånga"
 exerciseId: "sik_5v5_14_fotbollskoordination_p3"
 source: "sik_traningsplanering"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_92943.html"
 title: "SVFF Mv C. Träningspass Spelformen 7 mot 7: Förhindra och rädda avslut - Skott"
 sessionId: "92943"
 source: "svff_ovningsbanken"

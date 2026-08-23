@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p8.html"
 title: "Uppmaningar med boll"
 exerciseId: "sik_5v5_14_fotbollskoordination_p8"
 source: "sik_traningsplanering"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_60503.html"
 title: "Sandras test träningspass"
 sessionId: "60503"
 source: "svff_ovningsbanken"

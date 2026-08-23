@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p5.html"
 title: "Spelsövning (match)"
 exerciseId: "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p5"
 source: "sik_traningsplanering"

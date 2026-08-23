@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_10_behalla_boll_3_p3.html"
 title: "Driva 2 och 2"
 exerciseId: "sik_5v5_10_behalla_boll_3_p3"
 source: "sik_traningsplanering"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_31042.html"
 title: "SvFF D - Praktik"
 sessionId: "31042"
 source: "svff_ovningsbanken"

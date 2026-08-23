@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_04_komma_till_avslut_fardigheter_2_p7.html"
 title: "Lek (fritt val)"
 exerciseId: "sik_5v5_04_komma_till_avslut_fardigheter_2_p7"
 source: "sik_traningsplanering"

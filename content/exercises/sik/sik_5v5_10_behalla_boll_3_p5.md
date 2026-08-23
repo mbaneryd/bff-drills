@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_10_behalla_boll_3_p5.html"
 title: "Lek (fritt val)"
 exerciseId: "sik_5v5_10_behalla_boll_3_p5"
 source: "sik_traningsplanering"

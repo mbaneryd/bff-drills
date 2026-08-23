@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/jsk/jsk_8_9_pass_9.html"
 title: "JSK 8-9 år – Pass 9"
 sessionId: "jsk_8_9_pass_9"
 source: "jsk_ovningsbank"

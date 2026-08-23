@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7062.html"
 title: "Träningsprogram - Skjuta"
 sessionId: "7062"
 source: "svff_ovningsbanken"

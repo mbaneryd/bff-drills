@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_11_behalla_boll_4_p5.html"
 title: "Spelsövning (match)"
 exerciseId: "sik_5v5_11_behalla_boll_4_p5"
 source: "sik_traningsplanering"

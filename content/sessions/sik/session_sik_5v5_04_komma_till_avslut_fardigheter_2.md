@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/session_sik_5v5_04_komma_till_avslut_fardigheter_2.html"
 title: "SIK 5v5 – Komma till avslut"
 sessionId: "sik_5v5_04_komma_till_avslut_fardigheter_2"
 source: "sik_traningsplanering"

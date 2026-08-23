@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7088.html"
 title: "Träningsprogram B Ungdom - Press"
 sessionId: "7088"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_52994.html"
 title: "SvFF MV D. Träningspass spelformen 7 mo7: Speluppbyggnad"
 sessionId: "52994"
 source: "svff_ovningsbanken"

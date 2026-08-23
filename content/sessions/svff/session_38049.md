@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38049.html"
 title: "7 MOT 7 SPELUPPBYGGNAD"
 sessionId: "38049"
 source: "svff_ovningsbanken"

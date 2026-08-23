@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p7.html"
 title: "Stafettormen"
 exerciseId: "sik_5v5_14_fotbollskoordination_p7"
 source: "sik_traningsplanering"

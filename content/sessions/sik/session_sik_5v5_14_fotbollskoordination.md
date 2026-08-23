@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/session_sik_5v5_14_fotbollskoordination.html"
 title: "SIK 5v5 – Fotbollskoordination"
 sessionId: "sik_5v5_14_fotbollskoordination"
 source: "sik_traningsplanering"

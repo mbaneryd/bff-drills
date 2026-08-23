@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_92945.html"
 title: "SvFF Mv C. Träningspass spelformen 7 mot 7: Speluppbyggnad"
 sessionId: "92945"
 source: "svff_ovningsbanken"

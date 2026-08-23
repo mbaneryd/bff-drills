@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_2173.html"
 title: "Målvakt - Djupledsspel – friläge"
 sessionId: "2173"
 source: "svff_ovningsbanken"

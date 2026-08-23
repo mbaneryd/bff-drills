@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_08_behalla_boll_1_p2.html"
 title: "Bollkull"
 exerciseId: "sik_5v5_08_behalla_boll_1_p2"
 source: "sik_traningsplanering"

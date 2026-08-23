@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_03_komma_till_avslut_fardigheter_1_p2.html"
 title: "Bollkull"
 exerciseId: "sik_5v5_03_komma_till_avslut_fardigheter_1_p2"
 source: "sik_traningsplanering"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_80861.html"
 title: "test"
 sessionId: "80861"
 source: "svff_ovningsbanken"

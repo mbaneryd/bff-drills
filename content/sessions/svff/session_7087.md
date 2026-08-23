@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7087.html"
 title: "Träningsprogram B Ungdom - Djupledsspel"
 sessionId: "7087"
 source: "svff_ovningsbanken"

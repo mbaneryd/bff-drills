@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38047.html"
 title: "7 mot 7 Kontring"
 sessionId: "38047"
 source: "svff_ovningsbanken"

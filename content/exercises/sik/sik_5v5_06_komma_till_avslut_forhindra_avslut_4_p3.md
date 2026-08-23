@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p3.html"
 title: "Stafett med drivning"
 exerciseId: "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p3"
 source: "sik_traningsplanering"

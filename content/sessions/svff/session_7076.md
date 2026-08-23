@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7076.html"
 title: "Träningsprogram - Rädda avslut"
 sessionId: "7076"
 source: "svff_ovningsbanken"

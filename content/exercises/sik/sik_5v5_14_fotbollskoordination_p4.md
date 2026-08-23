@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p4.html"
 title: "Kona eller boll"
 exerciseId: "sik_5v5_14_fotbollskoordination_p4"
 source: "sik_traningsplanering"

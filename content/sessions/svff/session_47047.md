@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_47047.html"
 title: "UEFA C modul 3, praktik 2"
 sessionId: "47047"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_31047.html"
 title: "Tränarutbildning B Ungdom - Praktik 1 Förberedelseträning"
 sessionId: "31047"
 source: "svff_ovningsbanken"

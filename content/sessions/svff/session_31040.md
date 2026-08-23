@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_31040.html"
 title: "Tränarutbildning B Ungdom - Praktik 4"
 sessionId: "31040"
 source: "svff_ovningsbanken"

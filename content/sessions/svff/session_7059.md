@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7059.html"
 title: "Träningsprogram - Utmana, finta och dribbla"
 sessionId: "7059"
 source: "svff_ovningsbanken"

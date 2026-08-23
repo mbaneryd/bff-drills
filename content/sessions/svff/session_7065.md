@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7065.html"
 title: "Träningsprogram - Passa"
 sessionId: "7065"
 source: "svff_ovningsbanken"

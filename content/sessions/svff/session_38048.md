@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38048.html"
 title: "7 mot 7 Förhindra speluppbyggnad"
 sessionId: "38048"
 source: "svff_ovningsbanken"

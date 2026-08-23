@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_39060.html"
 title: "Målvaktsträning 7 mot 7"
 sessionId: "39060"
 source: "svff_ovningsbanken"

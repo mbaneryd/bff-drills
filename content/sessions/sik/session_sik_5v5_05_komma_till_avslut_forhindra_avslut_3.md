@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/session_sik_5v5_05_komma_till_avslut_forhindra_avslut_3.html"
 title: "SIK 5v5 – Komma till avslut/Förhindra avslut"
 sessionId: "sik_5v5_05_komma_till_avslut_forhindra_avslut_3"
 source: "sik_traningsplanering"

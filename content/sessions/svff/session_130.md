@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_130.html"
 title: "Träningsprogram - Driva"
 sessionId: "130"
 source: "svff_ovningsbanken"

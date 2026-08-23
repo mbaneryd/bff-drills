@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_14_fotbollskoordination_p10.html"
 title: "Uppmaningar parvis"
 exerciseId: "sik_5v5_14_fotbollskoordination_p10"
 source: "sik_traningsplanering"

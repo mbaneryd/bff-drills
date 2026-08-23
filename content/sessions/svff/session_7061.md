@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7061.html"
 title: "Träningsprogram - Vända"
 sessionId: "7061"
 source: "svff_ovningsbanken"

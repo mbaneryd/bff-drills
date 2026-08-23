@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p7.html"
 title: "Lek (fritt val)"
 exerciseId: "sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p7"
 source: "sik_traningsplanering"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7084.html"
 title: "Träningsprogram B Ungdom - Väggspel"
 sessionId: "7084"
 source: "svff_ovningsbanken"

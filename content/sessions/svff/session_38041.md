@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38041.html"
 title: "5 mot 5 passa, ta emot - markera"
 sessionId: "38041"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7074.html"
 title: "Träningsprogram - Spelbredd och speldjup"
 sessionId: "7074"
 source: "svff_ovningsbanken"

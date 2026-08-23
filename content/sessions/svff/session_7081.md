@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7081.html"
 title: "Träningsprogram - Djupledsspel och frilägen"
 sessionId: "7081"
 source: "svff_ovningsbanken"

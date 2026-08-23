@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_46984.html"
 title: "SvFF MV D. Träningspass spelformen 7 mot 7: Förhindra och rädda avslut - Djupledsspel och friläge"
 sessionId: "46984"
 source: "svff_ovningsbanken"

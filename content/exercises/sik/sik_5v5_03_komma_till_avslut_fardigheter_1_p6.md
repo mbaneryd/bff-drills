@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_03_komma_till_avslut_fardigheter_1_p6.html"
 title: "Spelsövning (match)"
 exerciseId: "sik_5v5_03_komma_till_avslut_fardigheter_1_p6"
 source: "sik_traningsplanering"

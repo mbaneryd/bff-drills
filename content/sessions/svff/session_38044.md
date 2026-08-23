@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38044.html"
 title: "7 mot 7 Förhindra och rädda avslut"
 sessionId: "38044"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_08_behalla_boll_1_p5.html"
 title: "Blå och gul"
 exerciseId: "sik_5v5_08_behalla_boll_1_p5"
 source: "sik_traningsplanering"

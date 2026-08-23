@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_10_behalla_boll_3_p2.html"
 title: "Passningsspel med High Five"
 exerciseId: "sik_5v5_10_behalla_boll_3_p2"
 source: "sik_traningsplanering"

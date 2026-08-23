@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38035.html"
 title: "3 mot 3 träning 2"
 sessionId: "38035"
 source: "svff_ovningsbanken"

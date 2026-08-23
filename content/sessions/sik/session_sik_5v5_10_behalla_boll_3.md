@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/session_sik_5v5_10_behalla_boll_3.html"
 title: "SIK 5v5 – Behålla boll (Speluppbyggnad, spelbarhet)"
 sessionId: "sik_5v5_10_behalla_boll_3"
 source: "sik_traningsplanering"

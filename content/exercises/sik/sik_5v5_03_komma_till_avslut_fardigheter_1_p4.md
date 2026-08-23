@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_03_komma_till_avslut_fardigheter_1_p4.html"
 title: "Distansskott"
 exerciseId: "sik_5v5_03_komma_till_avslut_fardigheter_1_p4"
 source: "sik_traningsplanering"

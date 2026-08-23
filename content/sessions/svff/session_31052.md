@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_31052.html"
 title: "Tränarutbildning - B Ungdom - Praktik Fotbollsstyrka"
 sessionId: "31052"
 source: "svff_ovningsbanken"

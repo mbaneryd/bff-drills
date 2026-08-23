@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_51092.html"
 title: "Träningspass SvFF MV D - Praktik"
 sessionId: "51092"
 source: "svff_ovningsbanken"

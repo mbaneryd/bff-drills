@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p3.html"
 title: "1 mot 1"
 exerciseId: "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p3"
 source: "sik_traningsplanering"

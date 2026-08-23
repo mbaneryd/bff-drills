@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_33251.html"
 title: "Corona 1"
 sessionId: "33251"
 source: "svff_ovningsbanken"

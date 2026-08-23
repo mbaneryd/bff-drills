@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7075.html"
 title: "Träningsprogram - Markera"
 sessionId: "7075"
 source: "svff_ovningsbanken"

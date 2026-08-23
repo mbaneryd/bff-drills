@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/jsk/session_jsk_7_pass_18.html"
 title: "JSK 7 år – Pass 18"
 sessionId: "jsk_7_pass_18"
 source: "jsk_ovningsbank"

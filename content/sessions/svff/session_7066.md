@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7066.html"
 title: "Träningsprogram - Spelbarhet"
 sessionId: "7066"
 source: "svff_ovningsbanken"

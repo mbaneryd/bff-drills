@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7073.html"
 title: "Träningsprogram - Ta bollen"
 sessionId: "7073"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_13_behalla_boll_6_p2.html"
 title: "Intervallträning med boll"
 exerciseId: "sik_5v5_13_behalla_boll_6_p2"
 source: "sik_traningsplanering"

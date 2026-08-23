@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38043.html"
 title: "5 mot 5 driva, vända - pressa"
 sessionId: "38043"
 source: "svff_ovningsbanken"

@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38045.html"
 title: "7 mot 7 Komma till avslut och göra mål"
 sessionId: "38045"
 source: "svff_ovningsbanken"

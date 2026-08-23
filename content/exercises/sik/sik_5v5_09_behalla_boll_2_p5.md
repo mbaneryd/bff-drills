@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_09_behalla_boll_2_p5.html"
 title: "Doppboll"
 exerciseId: "sik_5v5_09_behalla_boll_2_p5"
 source: "sik_traningsplanering"

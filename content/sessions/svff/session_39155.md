@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_39155.html"
 title: "Handledning TUBU, Praktik 1"
 sessionId: "39155"
 source: "svff_ovningsbanken"

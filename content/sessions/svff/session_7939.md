@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7939.html"
 title: "Fotbollsskola 8-9 år - Dag 4 Eftermiddag"
 sessionId: "7939"
 source: "svff_ovningsbanken"

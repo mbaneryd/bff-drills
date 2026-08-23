@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38046.html"
 title: "7 mot 7 Återerövring"
 sessionId: "38046"
 source: "svff_ovningsbanken"

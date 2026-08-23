@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_38042.html"
 title: "5 mot 5 skjuta - kasta sig, fånga"
 sessionId: "38042"
 source: "svff_ovningsbanken"

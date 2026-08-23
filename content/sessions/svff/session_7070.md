@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_7070.html"
 title: "Träningsprogram - Väggspel"
 sessionId: "7070"
 source: "svff_ovningsbanken"

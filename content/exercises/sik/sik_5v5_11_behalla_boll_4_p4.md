@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_11_behalla_boll_4_p4.html"
 title: "Passa ta emot & driv"
 exerciseId: "sik_5v5_11_behalla_boll_4_p4"
 source: "sik_traningsplanering"

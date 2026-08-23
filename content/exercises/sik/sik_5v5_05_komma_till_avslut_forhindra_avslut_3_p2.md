@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/sik/sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p2.html"
 title: "Stafett"
 exerciseId: "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p2"
 source: "sik_traningsplanering"

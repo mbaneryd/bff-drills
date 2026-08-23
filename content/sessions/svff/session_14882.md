@@ -1,4 +1,6 @@
 ---
+aliases:
+  - "/session_14882.html"
 title: "Fotbollsskola 6-7 år - Dag 1 Förmiddag"
 sessionId: "14882"
 source: "svff_ovningsbanken"
