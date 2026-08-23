@@ -1,0 +1,18 @@
+baseURL: "https://mbaneryd.github.io/bff-drills/"
+defaultContentLanguage: "sv"
+title: "Övningsbank – BFF"
+
+pagination:
+  pagerSize: 1000
+
+outputs:
+  home: [HTML]
+  section: [HTML]
+
+permalinks:
+  pages: "/:filename/"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

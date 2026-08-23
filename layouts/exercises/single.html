@@ -1,0 +1,75 @@
+{{ define "main" }}
+<div class="exercise-detail">
+  <a class="back-link" href="{{ "exercises/" | relURL }}">← Alla övningar</a>
+  <h1>{{ .Title }}</h1>
+
+  {{- $source := .Params.source -}}
+  {{- if eq $source "svff_ovningsbanken" -}}
+    <div class="subtitle">{{ with .Params.category }}{{ . }}{{ end }}{{ with .Params.topic }} — {{ . }}{{ end }}</div>
+  {{- else if eq $source "jsk_ovningsbank" -}}
+    <div class="subtitle">JSK Övningsbank · {{ with .Params.ageGroup }}{{ . }} år · {{ end }}{{ with .Params.gameFormat }}{{ . }}{{ end }}</div>
+  {{- else if eq $source "sik_traningsplanering" -}}
+    <div class="subtitle">SIK Träningsplanering · {{ with .Params.tema }}{{ . }} · {{ end }}5v5</div>
+  {{- end }}
+
+  <div class="meta-tags">
+    {{- with .Params.exerciseType }}<span class="tag tag-type">{{ . }}</span>{{ end }}
+    {{- with .Params.duration }}<span class="tag tag-duration">{{ . }}</span>{{ end }}
+    {{- with .Params.areaSize }}<span class="tag tag-area">{{ . }}</span>{{ end }}
+    {{- with .Params.gameFormat }}<span class="tag tag-fmt">{{ . }}</span>{{ end }}
+    {{- with .Params.levels }}
+      {{- range $k, $v := . }}
+        {{- if $v }}<span class="tag tag-active">{{ $k }}</span>{{ end }}
+      {{- end }}
+    {{- end }}
+  </div>
+
+  {{ with .Params.image }}
+  <div class="diagram">
+    <img class="exercise-image" src="{{ printf "images/%s" . | relURL }}" alt="Övningsdiagram" onerror="this.style.display='none'">
+  </div>
+  {{ end }}
+
+  <div class="content-sections" id="content-sections">
+    {{ .Content }}
+  </div>
+  <script>
+  (function(){
+    const c = document.getElementById('content-sections');
+    if (!c) return;
+    const nodes = Array.from(c.childNodes);
+    c.innerHTML = '';
+    let div = null;
+    nodes.forEach(n => {
+      if (n.nodeType === 1 && n.tagName === 'H2') {
+        div = document.createElement('div');
+        div.className = 'content-section';
+        div.appendChild(n);
+        c.appendChild(div);
+      } else if (div) {
+        div.appendChild(n);
+      } else {
+        c.appendChild(n);
+      }
+    });
+  })();
+  </script>
+
+  {{ with .Params.playerSkills }}
+  <div class="section">
+    <h3>Spelarens färdigheter</h3>
+    <p>{{ delimit . ", " }}</p>
+  </div>
+  {{ end }}
+
+  <footer>
+    {{ if eq $source "svff_ovningsbanken" }}
+      {{ with .Params.sourceUrl }}<a href="{{ . }}">Källa: SvFF Övningsbanken</a> · {{ end }}ID: {{ .Params.exerciseId }}
+    {{ else if eq $source "jsk_ovningsbank" }}
+      Källa: Järna Sportklubb Övningsbank · {{ with .Params.ageGroup }}{{ . }} år · {{ end }}ID: {{ .Params.exerciseId }}
+    {{ else if eq $source "sik_traningsplanering" }}
+      Källa: Sundbybergs IK Träningsplanering 5v5 · {{ with .Params.sourceFile }}{{ . }}{{ end }} · Sida {{ .Params.sourcePage }}
+    {{ end }}
+  </footer>
+</div>
+{{ end }}

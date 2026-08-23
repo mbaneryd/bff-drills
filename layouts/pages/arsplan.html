@@ -1,0 +1,11 @@
+{{ define "main" }}
+<header>
+  <nav><a href="{{ "sessions/" | relURL }}">← Träningspass</a></nav>
+  <h1>{{ .Title }}</h1>
+  <div class="meta">Sundbybergs IK · Spelform 5v5</div>
+</header>
+<main class="page-content">
+  {{ .Content }}
+</main>
+<footer>Källa: Sundbybergs IK – Träningsinnehåll, Träningsprinciper 5v5 & Temaveckor</footer>
+{{ end }}

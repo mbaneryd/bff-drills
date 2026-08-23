@@ -1,0 +1,147 @@
+{{ define "title" }}Övningsbank{{ end }}
+{{ define "main" }}
+{{ $all := .Pages }}
+{{ $svff := where $all "Params.source" "svff_ovningsbanken" }}
+{{ $jsk := where $all "Params.source" "jsk_ovningsbank" }}
+{{ $sik := where $all "Params.source" "sik_traningsplanering" }}
+<header>
+  <h1>Övningsbank</h1>
+  <nav><a href="{{ "sessions/" | relURL }}">Träningspass →</a></nav>
+  <span class="count" id="count"></span>
+</header>
+<div class="filters">
+  <div class="src-btns">
+    <button class="src-btn on" data-src="all">Alla ({{ len $all }})</button>
+    <button class="src-btn" data-src="svff_ovningsbanken">SvFF ({{ len $svff }})</button>
+    <button class="src-btn" data-src="jsk_ovningsbank">JSK ({{ len $jsk }})</button>
+    <button class="src-btn" data-src="sik_traningsplanering">SIK ({{ len $sik }})</button>
+  </div>
+  <input type="text" id="q" placeholder="Sök övning...">
+  <select id="cat">
+    <option value="">Alla kategorier</option>
+    {{ $cats := slice }}
+    {{ range $all }}{{ with .Params.category }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+    {{ range (uniq (sort $cats)) }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+  </select>
+  <select id="type">
+    <option value="">Alla typer</option>
+    {{ $types := slice }}
+    {{ range $all }}{{ with .Params.exerciseType }}{{ $types = $types | append . }}{{ end }}{{ end }}
+    {{ range (uniq (sort $types)) }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+  </select>
+  <div class="level-btns">
+    <button class="level-btn" data-lvl="3v3">3v3</button>
+    <button class="level-btn" data-lvl="5v5">5v5</button>
+    <button class="level-btn" data-lvl="7v7">7v7</button>
+    <button class="level-btn" data-lvl="9v9">9v9</button>
+    <button class="level-btn" data-lvl="11v11">11v11</button>
+  </div>
+</div>
+<main><div class="grid" id="grid"></div></main>
+<script>
+const DATA = [{{ range $i, $p := $all }}{{ if $i }},{{ end }}{{ dict "id" $p.File.BaseFileName "title" $p.Title "href" $p.RelPermalink "source" (default "" $p.Params.source) "category" (default "" $p.Params.category) "exerciseType" (default "" $p.Params.exerciseType) "topic" (default "" $p.Params.topic) "levels" (default (dict) $p.Params.levels) "image" (default "" $p.Params.image) "what" (default "" $p.Params.what) "ageGroup" (default "" $p.Params.ageGroup) | jsonify | safeJS }}{{ end }}];
+
+const countEl = document.getElementById('count');
+const grid = document.getElementById('grid');
+const qEl = document.getElementById('q');
+const catEl = document.getElementById('cat');
+const typeEl = document.getElementById('type');
+const lvlBtns = document.querySelectorAll('.level-btn');
+const srcBtns = document.querySelectorAll('.src-btn');
+let activeLevels = new Set();
+let activeSrc = 'all';
+
+function render() {
+  const q = qEl.value.toLowerCase();
+  const cat = catEl.value;
+  const typ = typeEl.value;
+  const filtered = DATA.filter(e => {
+    if (activeSrc !== 'all' && e.source !== activeSrc) return false;
+    if (q && !e.title.toLowerCase().includes(q) && !(e.topic||'').toLowerCase().includes(q) && !(e.what||'').toLowerCase().includes(q)) return false;
+    if (cat && e.category !== cat) return false;
+    if (typ && e.exerciseType !== typ) return false;
+    if (activeLevels.size > 0) {
+      const hasLevel = [...activeLevels].some(l => e.levels && e.levels[l]);
+      if (!hasLevel) return false;
+    }
+    return true;
+  });
+  countEl.textContent = filtered.length + ' övningar';
+  if (!filtered.length) {
+    grid.innerHTML = '<div class="empty">Inga övningar hittades</div>';
+    syncToHash();
+    return;
+  }
+  grid.innerHTML = filtered.map(e => {
+    const isJsk = e.source === 'jsk_ovningsbank';
+    const isSik = e.source === 'sik_traningsplanering';
+    const lvlTags = Object.entries(e.levels||{}).filter(([,v])=>v).map(([k])=>`<span class="tag-lvl">${k}</span>`).join('');
+    const imgSrc = e.image ? '{{ "images/" | relURL }}' + e.image : '';
+    const img = imgSrc
+      ? `<img class="card-img" src="${imgSrc}" alt="" loading="lazy" onerror="imgErr(this)">`
+      : '<div class="card-img-placeholder">⚽</div>';
+    const jskBadge = isJsk ? '<span class="tag-jsk">JSK</span>' : '';
+    const sikBadge = isSik ? '<span class="tag-sik">SIK</span>' : '';
+    const ageBadge = (isJsk && e.ageGroup) ? `<span class="tag-age">${e.ageGroup} år</span>` : '';
+    const topicLine = e.topic || e.what || '';
+    return `<a class="card" href="${e.href}">
+      ${img}
+      <div class="card-body">
+        <div class="card-title">${e.title||'(namnlös)'}</div>
+        <div class="card-topic">${topicLine}</div>
+        <div class="card-tags">
+          ${jskBadge}${sikBadge}${ageBadge}
+          ${e.category ? `<span class="tag-cat">${e.category}</span>` : ''}
+          ${e.exerciseType ? `<span class="tag-type">${e.exerciseType}</span>` : ''}
+          ${lvlTags}
+        </div>
+      </div>
+    </a>`;
+  }).join('');
+  syncToHash();
+}
+
+qEl.addEventListener('input', render);
+catEl.addEventListener('change', render);
+typeEl.addEventListener('change', render);
+lvlBtns.forEach(btn => btn.addEventListener('click', () => {
+  const l = btn.dataset.lvl;
+  if (activeLevels.has(l)) { activeLevels.delete(l); btn.classList.remove('on'); }
+  else { activeLevels.add(l); btn.classList.add('on'); }
+  render();
+}));
+srcBtns.forEach(btn => btn.addEventListener('click', () => {
+  activeSrc = btn.dataset.src;
+  srcBtns.forEach(b => b.classList.toggle('on', b === btn));
+  render();
+}));
+
+function imgErr(el) { el.outerHTML = '<div class="card-img-placeholder">⚽</div>'; }
+
+function syncToHash() {
+  const p = new URLSearchParams();
+  if (activeSrc !== 'all') p.set('src', activeSrc);
+  if (qEl.value) p.set('q', qEl.value);
+  if (catEl.value) p.set('cat', catEl.value);
+  if (typeEl.value) p.set('type', typeEl.value);
+  if (activeLevels.size) p.set('levels', [...activeLevels].join(','));
+  const h = p.toString();
+  history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
+}
+
+function loadFromHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  activeSrc = p.get('src') || 'all';
+  qEl.value = p.get('q') || '';
+  catEl.value = p.get('cat') || '';
+  typeEl.value = p.get('type') || '';
+  activeLevels = new Set((p.get('levels') || '').split(',').filter(Boolean));
+  srcBtns.forEach(b => b.classList.toggle('on', b.dataset.src === activeSrc));
+  lvlBtns.forEach(b => b.classList.toggle('on', activeLevels.has(b.dataset.lvl)));
+  render();
+}
+
+window.addEventListener('popstate', loadFromHash);
+loadFromHash();
+</script>
+{{ end }}

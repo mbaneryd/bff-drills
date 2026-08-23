@@ -1,0 +1,7 @@
+{{ $labels := split (.Get "labels") "," }}
+{{ $ids := split (.Get "ids") "," }}
+<div class="age-tabs">
+{{ range $i, $e := $labels }}
+<button class="age-tab{{ if eq $i 0 }} on{{ end }}" onclick="showTab('{{ strings.TrimSpace (index $ids $i) }}',this)">{{ strings.TrimSpace $e }}</button>
+{{ end }}
+</div>

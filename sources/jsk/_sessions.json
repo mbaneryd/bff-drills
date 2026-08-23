@@ -1,0 +1,1626 @@
+[
+  {
+    "sessionId": "jsk_7_pass_1",
+    "passNum": 1,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Stoppljuset",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_25"
+      },
+      {
+        "exerciseNum": 19,
+        "exerciseName": "Match en mot en",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_19"
+      },
+      {
+        "exerciseNum": 6,
+        "exerciseName": "Konskog",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_6"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_2",
+    "passNum": 2,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 7,
+        "exerciseName": "Vän med bollen",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_7"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Domarn hur långt är det kvar",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_3",
+    "passNum": 3,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 2,
+        "exerciseName": "Jonglering",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_2"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Luftteknik",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_3"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_4",
+    "passNum": 4,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Tjuv och polis",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_26"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Nöta",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_10"
+      },
+      {
+        "exerciseNum": 14,
+        "exerciseName": "Avslut med väggspel",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_14"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_5",
+    "passNum": 5,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Stoppljuset",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_25"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 16,
+        "exerciseName": "Konbana med avslut",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_16"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_6",
+    "passNum": 6,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 12,
+        "exerciseName": "Skotträning",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_12"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Domarn hur långt är det kvar",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_7",
+    "passNum": 7,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 31,
+        "exerciseName": "Bollstafett",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_31"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Luftteknik",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_3"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_8",
+    "passNum": 8,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Tjuv och polis",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_26"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Nöta",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_10"
+      },
+      {
+        "exerciseNum": 14,
+        "exerciseName": "Avslut med väggspel",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_14"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_9",
+    "passNum": 9,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Stoppljuset",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_25"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 7,
+        "exerciseName": "Vän med bollen",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_7"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_10",
+    "passNum": 10,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 8,
+        "exerciseName": "Vän med bollen i grupp",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_8"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Domarn hur långt är det kvar",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_11",
+    "passNum": 11,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Ravelli",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_32"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Luftteknik",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_3"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_12",
+    "passNum": 12,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Tjuv och polis",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_26"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Nöta",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_10"
+      },
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Fallteknik",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_33"
+      },
+      {
+        "exerciseNum": 14,
+        "exerciseName": "Avslut med väggspel",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_14"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 95,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_13",
+    "passNum": 13,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Stoppljuset",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_25"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 19,
+        "exerciseName": "Match en mot en",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_19"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_14",
+    "passNum": 14,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 12,
+        "exerciseName": "Skotträning",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_12"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Domarn hur långt är det kvar",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_15",
+    "passNum": 15,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 2,
+        "exerciseName": "Jonglering",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_2"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Luftteknik",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_3"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_16",
+    "passNum": 16,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Tjuv och polis",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_26"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Nöta",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_10"
+      },
+      {
+        "exerciseNum": 16,
+        "exerciseName": "Konbana med avslut",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_16"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_17",
+    "passNum": 17,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Stoppljuset",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_25"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 19,
+        "exerciseName": "Match en mot en",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_19"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_18",
+    "passNum": 18,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 8,
+        "exerciseName": "Vän med bollen i grupp",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_8"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Domarn hur långt är det kvar",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_19",
+    "passNum": 19,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 2,
+        "exerciseName": "Jonglering",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_2"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Luftteknik",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_3"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_7_pass_20",
+    "passNum": 20,
+    "ageGroup": "7",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Tjuv och polis",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_26"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Nöta",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_10"
+      },
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Fallteknik",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_33"
+      },
+      {
+        "exerciseNum": 14,
+        "exerciseName": "Avslut med väggspel",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_14"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 20,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 95,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_1",
+    "passNum": 1,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 29,
+        "exerciseName": "Nummerboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_29"
+      },
+      {
+        "exerciseNum": 7,
+        "exerciseName": "Vän med bollen",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_7"
+      },
+      {
+        "exerciseNum": 19,
+        "exerciseName": "Match en mot en",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_19"
+      },
+      {
+        "exerciseNum": 21,
+        "exerciseName": "Match fem mot fem",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_21"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_2",
+    "passNum": 2,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 8,
+        "exerciseName": "Vän med bollen i grupp",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_8"
+      },
+      {
+        "exerciseNum": 18,
+        "exerciseName": "Zon-spel mittlinje",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_18"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_3",
+    "passNum": 3,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 2,
+        "exerciseName": "Jonglering",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_2"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Luftteknik",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_3"
+      },
+      {
+        "exerciseNum": 21,
+        "exerciseName": "Match fem mot fem",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_21"
+      },
+      {
+        "exerciseNum": 31,
+        "exerciseName": "Bollstafett",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_31"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_4",
+    "passNum": 4,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Tjuv och polis",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_26"
+      },
+      {
+        "exerciseNum": 12,
+        "exerciseName": "Skotträning",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_12"
+      },
+      {
+        "exerciseNum": 15,
+        "exerciseName": "Ledstjärnan",
+        "minutes": null,
+        "exerciseId": "jsk_7_9_15"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 30,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_5",
+    "passNum": 5,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Ravelli",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_32"
+      },
+      {
+        "exerciseNum": 14,
+        "exerciseName": "Avslut med väggspel",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_14"
+      },
+      {
+        "exerciseNum": 16,
+        "exerciseName": "Konbana med avslut",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_16"
+      },
+      {
+        "exerciseNum": 21,
+        "exerciseName": "Match fem mot fem",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_21"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Domarn hur långt är det kvar",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_6",
+    "passNum": 6,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Stoppljuset",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_25"
+      },
+      {
+        "exerciseNum": 6,
+        "exerciseName": "Konskog",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_6"
+      },
+      {
+        "exerciseNum": 19,
+        "exerciseName": "Match en mot en",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_19"
+      },
+      {
+        "exerciseNum": 17,
+        "exerciseName": "Zon-spel",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_17"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_7",
+    "passNum": 7,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Doppboll",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_30"
+      },
+      {
+        "exerciseNum": 2,
+        "exerciseName": "Jonglering",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_2"
+      },
+      {
+        "exerciseNum": 4,
+        "exerciseName": "Teknikcirkeln",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_4"
+      },
+      {
+        "exerciseNum": 21,
+        "exerciseName": "Match fem mot fem",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_21"
+      },
+      {
+        "exerciseNum": 31,
+        "exerciseName": "Bollstafett",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_31"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_8",
+    "passNum": 8,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Alla inne",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_1"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "VM",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_22"
+      },
+      {
+        "exerciseNum": 13,
+        "exerciseName": "Skott på rullande boll",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_13"
+      },
+      {
+        "exerciseNum": 14,
+        "exerciseName": "Avslut med väggspel",
+        "minutes": null,
+        "exerciseId": "jsk_7_9_14"
+      },
+      {
+        "exerciseNum": 18,
+        "exerciseName": "Zon-spel mittlinje",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_18"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Kinesiska muren",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_28"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_9",
+    "passNum": 9,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 29,
+        "exerciseName": "Nummerboll",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_29"
+      },
+      {
+        "exerciseNum": 5,
+        "exerciseName": "Cirkeln",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_5"
+      },
+      {
+        "exerciseNum": 15,
+        "exerciseName": "Ledstjärnan",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_15"
+      },
+      {
+        "exerciseNum": 21,
+        "exerciseName": "Match fem mot fem",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_21"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Tom & Jerry",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_24"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_8_9_pass_10",
+    "passNum": 10,
+    "ageGroup": "8-9",
+    "gameFormat": "5v5",
+    "exercises": [
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Ravelli",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_32"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Nöta",
+        "minutes": 15,
+        "exerciseId": "jsk_7_9_10"
+      },
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Fallteknik",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_33"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Match tre mot tre",
+        "minutes": 25,
+        "exerciseId": "jsk_7_9_20"
+      },
+      {
+        "exerciseNum": 17,
+        "exerciseName": "Zon-spel",
+        "minutes": 10,
+        "exerciseId": "jsk_7_9_17"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "Prickboll",
+        "minutes": 5,
+        "exerciseId": "jsk_7_9_27"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningbank_7–9_1.0.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_1",
+    "passNum": 1,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Koordinationsstege",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_32"
+      },
+      {
+        "exerciseNum": 1,
+        "exerciseName": "Drillen",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_1"
+      },
+      {
+        "exerciseNum": 6,
+        "exerciseName": "En mot en med kortlinje som mål",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_6"
+      },
+      {
+        "exerciseNum": 2,
+        "exerciseName": "Teknikormen",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_2"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Smålagsspel 5v5",
+        "minutes": 30,
+        "exerciseId": "jsk_10_12_23"
+      },
+      {
+        "exerciseNum": 34,
+        "exerciseName": "Matchjogg",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_34"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_2",
+    "passNum": 2,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Balanshopp",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_33"
+      },
+      {
+        "exerciseNum": 16,
+        "exerciseName": "Passningsdiamanten",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_16"
+      },
+      {
+        "exerciseNum": 27,
+        "exerciseName": "2v2/3v3 Kvadrat",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_27"
+      },
+      {
+        "exerciseNum": 17,
+        "exerciseName": "Passning på led & passning med vändning",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_17"
+      },
+      {
+        "exerciseNum": 28,
+        "exerciseName": "Zonspel mittlinje",
+        "minutes": 30,
+        "exerciseId": "jsk_10_12_28"
+      },
+      {
+        "exerciseNum": 34,
+        "exerciseName": "Matchjogg",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_34"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_3",
+    "passNum": 3,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Koordinationsstege",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_32"
+      },
+      {
+        "exerciseNum": 12,
+        "exerciseName": "Kvadratpass 1",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_12"
+      },
+      {
+        "exerciseNum": 11,
+        "exerciseName": "England",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_11"
+      },
+      {
+        "exerciseNum": 18,
+        "exerciseName": "Y:et",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_18"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Smålagsspel 5v5",
+        "minutes": 25,
+        "exerciseId": "jsk_10_12_23"
+      },
+      {
+        "exerciseNum": 34,
+        "exerciseName": "Matchjogg",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_34"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_4",
+    "passNum": 4,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Balanshopp",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_33"
+      },
+      {
+        "exerciseNum": 5,
+        "exerciseName": "Teknikcirkeln",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_5"
+      },
+      {
+        "exerciseNum": 19,
+        "exerciseName": "Skott på rullande boll",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_19"
+      },
+      {
+        "exerciseNum": 20,
+        "exerciseName": "Ledstjärnan",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_20"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "Toni Kroos",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_22"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Smålagsspel 5v5",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_5",
+    "passNum": 5,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Koordinationsstege",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_32"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Teknikdiagonalen",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_3"
+      },
+      {
+        "exerciseNum": 29,
+        "exerciseName": "Zon match",
+        "minutes": 25,
+        "exerciseId": "jsk_10_12_29"
+      },
+      {
+        "exerciseNum": 30,
+        "exerciseName": "Riktningsmatch 3v2",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_30"
+      },
+      {
+        "exerciseNum": 7,
+        "exerciseName": "Stafetter & Teknikbanor Bana 1",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_7"
+      },
+      {
+        "exerciseNum": 34,
+        "exerciseName": "Matchjogg",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_34"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_6",
+    "passNum": 6,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Balanshopp",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_33"
+      },
+      {
+        "exerciseNum": 10,
+        "exerciseName": "Kvadraten",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_10"
+      },
+      {
+        "exerciseNum": 26,
+        "exerciseName": "Ball Keep i kvadrat",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_26"
+      },
+      {
+        "exerciseNum": 13,
+        "exerciseName": "Ajax Trianglar",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_13"
+      },
+      {
+        "exerciseNum": 24,
+        "exerciseName": "Vända spel",
+        "minutes": 25,
+        "exerciseId": "jsk_10_12_24"
+      },
+      {
+        "exerciseNum": 34,
+        "exerciseName": "Matchjogg",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_34"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_7",
+    "passNum": 7,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 32,
+        "exerciseName": "Koordinationsstege",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_32"
+      },
+      {
+        "exerciseNum": 9,
+        "exerciseName": "Cirkeln",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_9"
+      },
+      {
+        "exerciseNum": 25,
+        "exerciseName": "Ball Keep",
+        "minutes": 20,
+        "exerciseId": "jsk_10_12_25"
+      },
+      {
+        "exerciseNum": 15,
+        "exerciseName": "Pass med flytt",
+        "minutes": 10,
+        "exerciseId": "jsk_10_12_15"
+      },
+      {
+        "exerciseNum": 31,
+        "exerciseName": "Laudrup",
+        "minutes": 30,
+        "exerciseId": "jsk_10_12_31"
+      },
+      {
+        "exerciseNum": 34,
+        "exerciseName": "Matchjogg",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_34"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  },
+  {
+    "sessionId": "jsk_10_12_pass_8",
+    "passNum": 8,
+    "ageGroup": "10-12",
+    "gameFormat": "7v7",
+    "exercises": [
+      {
+        "exerciseNum": 33,
+        "exerciseName": "Balanshopp",
+        "minutes": null,
+        "exerciseId": "jsk_10_12_33"
+      },
+      {
+        "exerciseNum": 3,
+        "exerciseName": "Teknikdiagonalen",
+        "minutes": 15,
+        "exerciseId": "jsk_10_12_3"
+      },
+      {
+        "exerciseNum": 21,
+        "exerciseName": "Avslut med inlägg",
+        "minutes": 25,
+        "exerciseId": "jsk_10_12_21"
+      },
+      {
+        "exerciseNum": 22,
+        "exerciseName": "Toni Kroos",
+        "minutes": 10,
+        "exerciseId": "jsk_10_12_22"
+      },
+      {
+        "exerciseNum": 23,
+        "exerciseName": "Smålagsspel 5v5",
+        "minutes": 25,
+        "exerciseId": "jsk_10_12_23"
+      }
+    ],
+    "totalMinutes": 75,
+    "source": "jsk_ovningsbank",
+    "sourceFile": "JSK_Ovningsbank-barn-alder-10-12.pdf"
+  }
+]

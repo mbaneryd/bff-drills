@@ -1,0 +1,3 @@
+<div class="skills">
+{{ range split (.Get 0) "," }}<span class="skill">{{ strings.TrimSpace . }}</span>{{ end }}
+</div>

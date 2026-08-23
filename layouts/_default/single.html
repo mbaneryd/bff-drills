@@ -1,0 +1,10 @@
+{{ define "main" }}
+<header>
+  <nav><a href="{{ "sessions/" | relURL }}">← Träningspass</a></nav>
+  <h1>{{ .Title }}</h1>
+</header>
+<main class="page-content">
+  {{ .Content }}
+</main>
+<footer>Övningsbank BFF</footer>
+{{ end }}

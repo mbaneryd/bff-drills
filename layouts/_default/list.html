@@ -1,0 +1,17 @@
+{{ define "main" }}
+<header>
+  <h1>{{ .Title }}</h1>
+  <nav><a href="{{ "exercises/" | relURL }}">← Övningar</a></nav>
+</header>
+<main>
+  <div class="grid">
+    {{ range .Pages }}
+    <a class="card" href="{{ .RelPermalink }}">
+      <div class="card-body">
+        <div class="card-title">{{ .Title }}</div>
+      </div>
+    </a>
+    {{ end }}
+  </div>
+</main>
+{{ end }}
