@@ -109,9 +109,13 @@ image: "svff/48347.png"     # relative to static/images/
 
 Source-specific fields: SvFF has `category`, `topic`, `exerciseType`, `videoUrl`. JSK has `ageGroup`, `gameFormat`. SIK has `tema`, `duration`, `areaSize`, `playerSkills`.
 
-## Navigation
+## Live site
 
-- `/exercises/` — browse all 552 exercises with filtering
-- `/sessions/` — browse all 142 training sessions
-- `/sik-arsplan/` — SIK yearly training plan and principles
-- `/jsk-traningsplanering/` — JSK training planning guide
+The site is published at **https://mbaneryd.github.io/bff-drills/** via GitHub Pages. Deploys automatically when content changes are pushed to main.
+
+- [Övningar](https://mbaneryd.github.io/bff-drills/exercises/) — browse all 552 exercises with filtering
+- [Träningspass](https://mbaneryd.github.io/bff-drills/sessions/) — browse all 142 training sessions
+- [SIK Årsplan](https://mbaneryd.github.io/bff-drills/sik-arsplan/) — SIK yearly training plan and principles
+- [JSK Planering](https://mbaneryd.github.io/bff-drills/jsk-traningsplanering/) — JSK training planning guide
+
+Old URLs (e.g. `/48347.html`, `/jsk/jsk_7_9_1.html`) redirect automatically to the new structure.

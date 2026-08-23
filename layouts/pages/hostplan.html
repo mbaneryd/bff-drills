@@ -1,0 +1,11 @@
+{{ define "main" }}
+<header>
+  <nav><a href="{{ "exercises/" | relURL }}">← Övningar</a></nav>
+  <h1>{{ .Title }}</h1>
+  <div class="meta">Bällsta FF · P2019 · Spelform 5v5</div>
+</header>
+<main class="page-content">
+  {{ .Content }}
+</main>
+<footer>Bällsta FF · Höstplan P2019 · Baserad på JSK Övningsbank, SIK Årsplan & SvFF Övningsbanken</footer>
+{{ end }}
