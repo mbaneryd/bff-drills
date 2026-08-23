@@ -1,0 +1,3 @@
+<div class="age-section{{ if .Get "active" }} visible{{ end }}" id="tab-{{ .Get "id" }}">
+{{ .Inner | markdownify }}
+</div>

@@ -1,0 +1,8 @@
+<script>
+function showTab(id, btn) {
+  document.querySelectorAll('.age-section').forEach(s => s.classList.remove('visible'));
+  document.getElementById('tab-' + id).classList.add('visible');
+  document.querySelectorAll('.age-tab').forEach(b => b.classList.remove('on'));
+  btn.classList.add('on');
+}
+</script>

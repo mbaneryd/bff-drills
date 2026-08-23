@@ -1,0 +1,6582 @@
+[
+  {
+    "id": 48347,
+    "title": "Färdighetsövning",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 96608,
+    "title": "Ö3 - Färdighetsövning 2 - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 96607,
+    "title": "Ö2 - Färdighetsövning 1 - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 96609,
+    "title": "Ö4 - Färdighetsövning 3 - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 96606,
+    "title": "Ö1 - Förberedelseträning - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89745,
+    "title": "Ö5 – Spelövning 1 – djupledsspel och frilägen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89744,
+    "title": "Ö4 – Färdighetsövning 3 – djupledsspel och frilägen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89743,
+    "title": "Ö3 – Färdighetsövning 2 – blockera avslut vid frilägen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 96611,
+    "title": "Ö5 - Spelövning 1 - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 96613,
+    "title": "Ö6 - Spelövning 2 - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89742,
+    "title": "Ö2 – Färdighetsövning 1 – blockera avslut vid frilägen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89741,
+    "title": "Ö1 – Förberedelseträning – djupledsspel och frilägen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89724,
+    "title": "Ö7 – Färdighetsövning 4 - bollstafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89723,
+    "title": "Ö6 – Spelövning 2 – skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89722,
+    "title": "Ö5 – Spelövning 1 – skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89721,
+    "title": "Ö4 – Färdighetsövning 3 – skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89720,
+    "title": "Ö3 – Färdighetsövning 2 – kasta sig och fånga bollen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89719,
+    "title": "Ö2 – Färdighetsövning 1 – fånga bollen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 89718,
+    "title": "Ö1 - Förberedelseträning - förhindra och rädda avslut",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 198,
+    "title": "Målvakt C - 6-9 år - Greppteknik - fånga avslut längs marken (FÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 201,
+    "title": "Målvakt C - 6-9 år - Skott - rädda avslut (SÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140478,
+    "title": "Futsal - Doppboll (U7+)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140456,
+    "title": "Futsal - En mot en mot mål (U9+)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140459,
+    "title": "Futsal - Spel mot två mål (U9-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140448,
+    "title": "Futsal - Skjuta, rulla och kasta i mål (U7-U12)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140060,
+    "title": "Futsal - Ta bollen (U11-U15)",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140091,
+    "title": "Futsal - En mot en med fart mot två mål (U9+)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140282,
+    "title": "Futsal - Attackera med sulan och skjut (U9+)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 163449,
+    "title": "Driva, Passa, Skjut",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 153613,
+    "title": "Koordinationsbana",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 100857,
+    "title": "Ö1 - Färdighetsövning - Mottagning och passning",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 100858,
+    "title": "Ö2 - Spelövning 1 - Grundförutsättningar i anfallsspel",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 100866,
+    "title": "Ö4 - Spelövning 3 - Grundförutsättningar i anfallsspel",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 100860,
+    "title": "Ö3 - Spelövning 2 - Grundförutsättningar i anfallsspel",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140093,
+    "title": "Futsal - Fyra sidor (U7-U10)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140370,
+    "title": "Futsal - Boll-jage (U7-U10)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140083,
+    "title": "Futsal - Bowling (U7-U10)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 142864,
+    "title": "Futsal - Gladiatorerna (U7-U10)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140364,
+    "title": "Futsal - Par-jage (U7+)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140374,
+    "title": "Futsal - Svansleken (U7-U12)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140360,
+    "title": "Futsal - Räkor och krabbor (U7-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140359,
+    "title": "Futsal - Kängurustafett (U7-U10)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140357,
+    "title": "Futsal - Motorikstopp (U7-U12)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140356,
+    "title": "Futsal - Spel mot många mål (U7-U10)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 142819,
+    "title": "Futsal - Vem är rädd för...? (U7-U10)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140076,
+    "title": "Futsal - En mot en i yta (U9+)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140444,
+    "title": "Futsal - Driva i olika riktningar (U9-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140457,
+    "title": "Futsal - Driva och skjuta (U7+)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140449,
+    "title": "Futsal - Tre mot tre med målvakt som inte får pressas (U11-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140072,
+    "title": "Futsal - Spel med distansskott (U11-U15)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140077,
+    "title": "Futsal - Knock out (U9-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140455,
+    "title": "Futsal - Kvadraten (U9-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140458,
+    "title": "Futsal - En mot en (U7-U15)",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140441,
+    "title": "Futsal - Driva över linje (U9-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140062,
+    "title": "Futsal - Spelbarhet (U9-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140440,
+    "title": "Futsal - Spel mot många mål (U11-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140439,
+    "title": "Futsal - Pendelspel (U11-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 141966,
+    "title": "Futsal - Kompis kom och hjälp (U7-U12)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140092,
+    "title": "Futsal - Behålla bollen (U7-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140480,
+    "title": "Futsal - Nummerboll (U9-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140479,
+    "title": "Futsal - Hålla bollen inom laget (U7-U10)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140087,
+    "title": "Futsal - Pendelspel (grund) (U7-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140477,
+    "title": "Futsal - Springa och driva (stafett) (U7-U10)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140473,
+    "title": "Futsal - Reaktionsjage (U7-U10)",
+    "topic": "Explosiv träning",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140472,
+    "title": "Futsal - Sicksack-stafett (U7-U10)",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140080,
+    "title": "Futsal - Rädd om fötterna (U7-U12)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140460,
+    "title": "Futsal - Bollstafett (U7-U10)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140471,
+    "title": "Futsal - Hämta bollar (U7-U12)",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140057,
+    "title": "Futsal - Tjuv och polis (U7-U15)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140453,
+    "title": "Futsal - Nummerspel (U9-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 140451,
+    "title": "Futsal - Trappan (U7-U12)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69819,
+    "title": "Futsal - Passa och ta emot bollen (U9+)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140414,
+    "title": "Futsal - Kvadraten (U11+)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140055,
+    "title": "Futsal - Bollstafett (U11+)",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140412,
+    "title": "Futsal - Sicksack-stafett (U11+)",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140079,
+    "title": "Futsal - Reaktionsjage (U11+)",
+    "topic": "Explosiv träning",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 140411,
+    "title": "Futsal - Springa och driva (stafett) (U11+)",
+    "topic": "Explosiv träning",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122831,
+    "title": "Rondo 7v4 (UEFA B)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122292,
+    "title": "Spel med fokus på 1 mot 1-situationer",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122289,
+    "title": "1 mot 1 med avslut",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122286,
+    "title": "Spel med olika typer av försvarsspel",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122278,
+    "title": "Spel med understöd",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122274,
+    "title": "Dubbelkvadrat",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122273,
+    "title": "Passningsstjärnan",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122267,
+    "title": "Spel med fokus på avslut",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122266,
+    "title": "Possessionspel med kontring",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122219,
+    "title": "Inläggsspel",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122218,
+    "title": "Avslut med återerövring",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122212,
+    "title": "Press i korridorer",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 122210,
+    "title": "Possessionspel i numerärt överläge",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48743,
+    "title": "SvFF D - Spelövning - (Spelform 9v9-11v11)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48740,
+    "title": "SvFF D - Spelövning - (Spelform 7v7)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 48738,
+    "title": "Ta bollen (framåt) - (Spelform 7v7)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 48731,
+    "title": "SvFF D - Spelövning - (spelform 5v5)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 48723,
+    "title": "Ta bollen (framåt) - (spelform 5v5)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 343,
+    "title": "Lek - kompis kom och hjälp",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 344,
+    "title": "Lek - förstenad på tid",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 345,
+    "title": "Lek - bollstafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 346,
+    "title": "Koordinationsövningar med boll 9",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 347,
+    "title": "Koordinationsövningar med hopprep 9-12 år",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 348,
+    "title": "Lek - stafettormen 9-12 år",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 351,
+    "title": "Lek - röd och blå",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 352,
+    "title": "Lek - alla bär alla",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 353,
+    "title": "Lek - jägarboll på två fält",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 322,
+    "title": "Färdighetsövning 3 - friläge - rädda avslut (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 334,
+    "title": "Spelövning 3 (mellanstort spel) - parfotboll",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 231,
+    "title": "Lek - Sidleds hoppande apa",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 288,
+    "title": "Färdighetsövning 1 - passa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 289,
+    "title": "Spelövning 1 (smålagsspel) - passa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 307,
+    "title": "Lek - Tafatt och blandade övningar",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 312,
+    "title": "Spelövning 1 - skott - rädda avslut (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 313,
+    "title": "Färdighetsövning 1 - uppvärmning och koordination (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 314,
+    "title": "Färdighetsövning 2 - fånga avslut - greppteknik (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 315,
+    "title": "Färdighetsövning 3 - kasta sig och fånga avslut längs marken - fallteknik (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 316,
+    "title": "Spelövning 2 - skott - rädda avslut (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 317,
+    "title": "Färdighetsövning 4 - rädda avslut och skott (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 318,
+    "title": "Färdighetsövning 1 - fånga djupledspassning (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 319,
+    "title": "Spelövning 1 - friläge - rädda avslut (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 320,
+    "title": "Färdighetsövning 2 - djupledsspel - kasta sig och avstyra dribbling (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 321,
+    "title": "Spelövning 2 - djupledsspel och frilägen - först till bollen och rädda avslut (MV)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 323,
+    "title": "Färdighetsövning 1 - spelbredd och speldjup 9-12 år",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 338,
+    "title": "Spelövning 2 (smålagsspel) - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 340,
+    "title": "Koordinationsövningar med boll",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 342,
+    "title": "Lek - stafett Zick - zack",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 350,
+    "title": "Lek stafett, tafatt",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 349,
+    "title": "Lek - stafett över - under",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 339,
+    "title": "Färdighetsövning 3 - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 337,
+    "title": "Färdighetsövning 2 - väggspel 9-12 år",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 336,
+    "title": "Spelövning 1 (smålagsspel) - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 335,
+    "title": "Färdighetsövning - väggspel 1",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 333,
+    "title": "Spelövning 2 (smålagsspel) - spelbredd och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 332,
+    "title": "Lek - Grodhopp",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 331,
+    "title": "Lek - skorpionvändning",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 330,
+    "title": "Lek - bakåthoppande apa",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 329,
+    "title": "Lek - framåthoppande apa",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 327,
+    "title": "Lek - spegeln",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 325,
+    "title": "Färdighetsövning 2 - spelbarhet och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 324,
+    "title": "Spelövning 1 (smålagsspel) - spelbredd och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 306,
+    "title": "Spelövning 2 (smålagsspel) - spelbarhet och spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 305,
+    "title": "Färdighetsövning 2 - spelbarhet och spelavstånd 9-12 år",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 304,
+    "title": "Spelövning 1 (smålagsspel) - spelbarhet och spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 297,
+    "title": "Färdighetsövning - spelbarhet och spelavstånd 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 296,
+    "title": "Färdighetsövning 3 - passa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 295,
+    "title": "Spelövning 2 - markera",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 294,
+    "title": "Spelövning 2 (smålagsspel) - passa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 293,
+    "title": "Färdighetsövning 2 - markera",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 292,
+    "title": "Färdighetsövning 2 - passa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 291,
+    "title": "Spelövning 1 - markera",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 290,
+    "title": "Färdighetsövning 1 - markera",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 287,
+    "title": "Färdighetsövning 3 - ta emot bollen och driva",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 286,
+    "title": "Spelövning 2 (smålagsspel) - ta emot bollen",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 285,
+    "title": "Färdighetsövning - ta emot bollen 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 280,
+    "title": "Färdighetsövning 3 - ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 279,
+    "title": "Spelövning 2 - ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 278,
+    "title": "Färdighetsövning 2 - ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 277,
+    "title": "Spelövning 1 - ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 276,
+    "title": "Färdighetsövning 1 - ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 266,
+    "title": "Spelövning 1 (smålagsspel) - ta emot bollen",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 265,
+    "title": "Färdighetsövning 1 - ta emot bollen",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 263,
+    "title": "Färdighetsövning 3 - skjuta",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 262,
+    "title": "Spelövning 2 (smålagsspel) - skjuta",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 260,
+    "title": "Färdighetsövning 2 - skjuta",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 259,
+    "title": "Spelövning 1 (smålagsspel) - skjuta",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 258,
+    "title": "Färdighetsövning 1 - lek, rätt antal kroppsdelar i marken.",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 257,
+    "title": "Färdighetsövning 3 - vända",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 256,
+    "title": "Spelövning 2 (smålagsspel) - vända",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 252,
+    "title": "Färdighetsövning - vända 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 251,
+    "title": "Spelövning 1 (smålagsspel) - vända",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 249,
+    "title": "Färdighetsövning 1 - vända",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 247,
+    "title": "Färdighetsövning - utmana, finta och dribbla 3",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 246,
+    "title": "Spelövning 2 (smålagsspel) - utmana, finta och dribbla",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 245,
+    "title": "Färdighetsövning 2 - utmana, finta och dribbla",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 244,
+    "title": "Spelövning 1 (smålagsspel) - utmana, finta och dribbla",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 243,
+    "title": "Lek - Tusenfotingen m fl.",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 230,
+    "title": "Lek - Krabbgång",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 229,
+    "title": "Lek - Björngång",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 228,
+    "title": "Lek - kullek",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 227,
+    "title": "Spelövning 2 (smålagsspel) - driva 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 225,
+    "title": "Färdighetsövning  - driva 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 224,
+    "title": "Spelövning (smålagsspel) - driva",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 223,
+    "title": "Färdighetsövning  - driva",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69594,
+    "title": "Spel 5 mot 5: Utmana, finta och dribbla - bryta",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69623,
+    "title": "Spel 5 mot 5: skjuta - kasta sig och fånga",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38392,
+    "title": "Possessionspel med spelbarhet och speldjup (kontring)",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38403,
+    "title": "Spel i central tredjedel med kontring",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38406,
+    "title": "7 mot 7 spel (kontring)",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38475,
+    "title": "3-lagsprincipen 1.0 (återerövring)",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38491,
+    "title": "Fylla på framåt (KTAGM)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38480,
+    "title": "7 mot 7 Spel (återerövring)",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38498,
+    "title": "Tre zoners spel - fylla på framåt (KTAGM)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58342,
+    "title": "Rävar och bönder",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58343,
+    "title": "1 mot 1 mot 3 mål",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69618,
+    "title": "Inte nudda boll",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69614,
+    "title": "Spel 5 mot 5: Passa, ta emot - markera",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69603,
+    "title": "Gul och blå",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69504,
+    "title": "Spel 5 mot 5: driva , vända - pressa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69135,
+    "title": "Målvaktsträning 7 mot 7, bryta djupledsspel",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69132,
+    "title": "Målvaktsträning 7 mot 7, Fånga bollen efter förflyttning",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 69128,
+    "title": "Målvaktsträning 7 mot 7, Fånga bollen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58510,
+    "title": "Doppboll 5 mot 5",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58429,
+    "title": "Isolerade skott",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58423,
+    "title": "Distansskott i numerärt överläge",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58419,
+    "title": "Nummerboll MV",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58388,
+    "title": "Pendelspel",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58384,
+    "title": "3 mot 3 med MV som inte får pressas",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58382,
+    "title": "Behålla bollen inom laget",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58330,
+    "title": "Stafett - Springa och driva",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58308,
+    "title": "Fyra hörn med försvarare",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58299,
+    "title": "Spel - driva över linje",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58288,
+    "title": "Vem är rädd för (5 mot 5)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38510,
+    "title": "7 mot 7 spel (FORA)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38504,
+    "title": "Tre zoners spel - komma på försvarssida (FORA)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38501,
+    "title": "Komma på försvarssida om passerad (FORA)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38500,
+    "title": "7 mot 7 Spel (KTAGM)",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38387,
+    "title": "7 mot 7 spel (förhindra speluppbyggnad)",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38386,
+    "title": "Spel MV till MV",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38383,
+    "title": "Tre zoners spel (fokus fsu)",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38382,
+    "title": "7 mot 7 spel (speluppbyggnad)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38380,
+    "title": "Pendelspel i numerärt överläge",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 38351,
+    "title": "Pendelspel",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 67657,
+    "title": "Kopia av: Målvakt C - Färdighetsövning - Distansskott - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 167,
+    "title": "Målvakt C - 12-14 år - Spelövning - Närskott - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1986,
+    "title": "Målvakt C - Lek - Bollstafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1987,
+    "title": "Målvakt C - Lek - Tågstafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1988,
+    "title": "Målvakt C - Lek - Bilda kedja",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1989,
+    "title": "Målvakt C - Lek - Killerball",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1990,
+    "title": "Målvakt C - Lek - Kängurustafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 384,
+    "title": "Målvakt C - 12-14 år - Speldjup bakåt – passa och ta emot bollen med fotens insida (FÖ 2)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 385,
+    "title": "Målvakt C - 12-14 år - Speldjup bakåt – passa bollen med vristen alternativt med skruv (FÖ 3)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 386,
+    "title": "Målvakt C - 12-14 år - Speldjup bakåt – speluppbyggnad (SÖ 1)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 387,
+    "title": "Målvakt C - 12-14 år - Speldjup bakåt – speluppbyggnad (SÖ 2)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 388,
+    "title": "Målvakt C - 12-14 år. Speldjup bakåt – ta emot och passa bollen med två tillslag (FÖ 4)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 2001,
+    "title": "Målvakt C - Koordination 9-12 år, utan redskap 2",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 2002,
+    "title": "Målvakt C - Koordination 9-12 år, bollövningar 1",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 2003,
+    "title": "Målvakt C - Koordination 9-12 år, bollövningar 2",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 2004,
+    "title": "Målvakt C - Koordination 9-12 år, bollövningar 3",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 383,
+    "title": "Målvakt C - 12-14 år - Speldjup bakåt – passa och ta emot bollen med fotens insida (FÖ 1)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1983,
+    "title": "Målvakt C - Lek - Bilda ringar",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1984,
+    "title": "Målvakt C - Lek - Stopp",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1985,
+    "title": "Målvakt C - Lek - Färgkull",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1995,
+    "title": "Målvakt C - Koordination 6-9 år, bollövningar 1",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1996,
+    "title": "Målvakt C - Koordination 6-9 år, bollövningar 2",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1997,
+    "title": "Målvakt C - Koordination 6-9 år, bollövningar 3",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1998,
+    "title": "Målvakt C - Koordination 6-9 år, bollövningar 4",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1999,
+    "title": "Målvakt C - Koordination 9-12 år, utan redskap 1",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 163,
+    "title": "Målvakt C - 8-9 år - Färdighetsövning - Distansskott - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 164,
+    "title": "Målvakt C - Färdighetsövning - Distansskott - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 165,
+    "title": "Målvakt C - Färdighetsövning - Vinkelskott - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 166,
+    "title": "Målvakt C - Spelövning - Skott från olika avstånd - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 168,
+    "title": "Målvakt C - 9-12 år - Spelövning - Friläge - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 189,
+    "title": "Målvakt C - 12-14 år - Spelövning - Friläge - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 240,
+    "title": "Målvakt C - Skott - rädda avslut (FÖ 5)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 241,
+    "title": "Målvakt C - 9-12 år - Skott - rädda avslut (FÖ1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 364,
+    "title": "Målvakt C - 9-12 år - Fallteknik - kasta sig och fånga avslut längs marken (FÖ 4)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 365,
+    "title": "Målvakt C - 9-12 år - Skott - rädda avslut (SÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 366,
+    "title": "Målvakt C - 9-12 år - Skott - rädda avslut 2 (FÖ 5)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 367,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – fånga djupledspassning - Alternativ 1 (FÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 368,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – fånga djupledspassning - Alternativ 2 (FÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 369,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – fånga djupledspassning - Alternativ 3 (FÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 370,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – friläge (SÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 371,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – fånga djupledspassning (FÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 372,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – kasta sig och avstyra dribbling (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 373,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – friläge (FÖ 4)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 374,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – först till bollen/rädda avslut (SÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 375,
+    "title": "Målvakt C - 9-12 år - Djupledsspel och frilägen – fånga djupledspassning (FÖ 5)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 2012,
+    "title": "Målvakt C - Koordination från 12 år, parövningar med boll 1",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 2011,
+    "title": "Målvakt C - Koordination från 12 år, bollövningar 3",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 2007,
+    "title": "Målvakt C - Koordination 9-12 år, övningar med hopprep",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 2006,
+    "title": "Målvakt C - Koordination 9-12 år, parövningar med boll 1",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1994,
+    "title": "Målvakt C - Koordination 6-9 år - utan redskap 2",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1993,
+    "title": "Målvakt C - Koordination 6-9 år - utan redskap 1",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1991,
+    "title": "Målvakt C - Lek - Ambulansleken",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 362,
+    "title": "Målvakt C - 9-12 år - Greppteknik - fånga avslut i bröst- och ansiktshöjd (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 361,
+    "title": "Målvakt C - 9-12 år - Greppteknik - fånga avslut längs marken (FÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 360,
+    "title": "Målvakt C - 9-12 år - Skott - rädda avslut (SÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 200,
+    "title": "Målvakt C - 6-9 år - Fallteknik - kasta sig och fånga avslut längs marken (FÖ 4)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 199,
+    "title": "Målvakt C - 6-9 år - Greppteknik - fånga avslut i midjehöjd (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 196,
+    "title": "Målvakt C - 6-9 år - Skott - rädda avslut (SÖ1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 193,
+    "title": "Målvakt C - 9-12 år - Spelmomentträning - Igångsättning - speluppbyggnad",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 192,
+    "title": "Målvakt C - 12-14 år - Speldjup bakåt - speluppbyggnad",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 190,
+    "title": "Målvakt C - 12-14 år - Spelövning - Friläge - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 53157,
+    "title": "TU BU praktik 2: Färdighetsövning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48353,
+    "title": "TU BU praktik 2: Färdighetsövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48371,
+    "title": "TU BU praktik 2: Färdighetsövning 3",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48372,
+    "title": "TU BU praktik 2: spelövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48377,
+    "title": "TU BU praktik 2: spelövning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48378,
+    "title": "TU BU praktik 2: spelövning 3",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 55327,
+    "title": "TU BU Praktik 4: Färdighetsövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 56083,
+    "title": "TUBU Praktik Fotbollsstyrka - Stabilitet och styrka för bålen – diagonallyft",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 56085,
+    "title": "TUBU Praktik Fotbollsstyrka - Stabilitet för bålen – antirotation med medicinboll",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 48349,
+    "title": "Spelövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 48350,
+    "title": "Spelövning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 55590,
+    "title": "TU BU praktik 4: Färdighetsövning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 55592,
+    "title": "TU BU Praktik 4: Färdighetsövning 3",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 55596,
+    "title": "TU BU praktik 4: Spelövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 55597,
+    "title": "TU BU praktik 4: spelövning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 55598,
+    "title": "TU BU Praktik 4: Spelövning 3",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 56077,
+    "title": "TUBU Praktik Fotbollsstyrka - Dragrörelse med benen – enbensmarklyft med hantelpress",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 56082,
+    "title": "TUBU Praktik Fotbollsstyrka - Stabilitet och styrka för bålen – rulla-fällkniv-rulla",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 412,
+    "title": "Färdighetsövning 1 - press och täckning",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 414,
+    "title": "Färdighetsövning 2 - press och täckning",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 415,
+    "title": "Spelövning 2 - press och täckning",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1546,
+    "title": "Speluppbyggnad - grundförutsättningar i anfallsspel passningsspel 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 413,
+    "title": "Spelövning 1 - press och täckning",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1548,
+    "title": "Speluppbyggnad - grundförutsättningar i anfallsspel passningsspel 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1549,
+    "title": "Speluppbyggnad - grundförutsättningar i anfallsspel passningsspel 3",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1551,
+    "title": "Speluppbyggnad - spelbarhet och spelavstånd 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1552,
+    "title": "Speluppbyggnad - spelbarhet och spelavstånd 3",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1553,
+    "title": "Speluppbyggnad - speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 1555,
+    "title": "Speluppbyggnad - uppflyttning",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1556,
+    "title": "Speluppbyggnad - uppflyttning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1557,
+    "title": "Speluppbyggnad - spelvändning",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1558,
+    "title": "Speluppbyggnad - spelvändning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 207,
+    "title": "Spelövning 2 - djupledsspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 208,
+    "title": "Spelövning 3 - djupledsspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 408,
+    "title": "Färdighetsövning 1 - press",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 409,
+    "title": "Spelövning 1 - press",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 411,
+    "title": "Spelövning 2 - press",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 547,
+    "title": "Fotbollsfys - koordination - rytmkänsla",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 548,
+    "title": "Fotbollsfys - koordination - öga-hand och öga-fot-koordination",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 550,
+    "title": "Fotbollsfys - koordination - balans och fotstyrka",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 552,
+    "title": "Fotbollsstyrka - hoppstyrketräning",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 554,
+    "title": "Fotbollsstyrka - hopp med duell",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 555,
+    "title": "Fotbollsstyrka - fånga medicinboll",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 556,
+    "title": "Fotbollsstyrka - kasta medicinboll",
+    "topic": "Fotbollsstyrka",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 410,
+    "title": "Färdighetsövning 2 - press",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 48,
+    "title": "Färdighetsövning 2 - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 42,
+    "title": "Färdighetsövning 1 - spelbredd och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 39,
+    "title": "Spelövning 2 - spelbarhet och spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 36,
+    "title": "Färdighetsövning 1 - spelbarhet och spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1925,
+    "title": "Spelövning 1 - kontring",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 206,
+    "title": "Spelövning 1 - djupledsspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 205,
+    "title": "Färdighetsövning 1 - djupledsspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 53,
+    "title": "Spelövning 1 - överlappning",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 51,
+    "title": "Färdighetsövning 1 - överlappning",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 50,
+    "title": "Spelövning 2 - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 49,
+    "title": "Spelövning 1 - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 47,
+    "title": "Spelövning 3 - spelbredd och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 46,
+    "title": "Färdighetsövning 1 - väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 44,
+    "title": "Spelövning 2 - spelbredd och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 43,
+    "title": "Spelövning 1 - spelbredd och speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 41,
+    "title": "Höja explosiviteten i fotbollsaktioner - Fotbollssprint 2",
+    "topic": "Explosiv träning",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 40,
+    "title": "Höja explosiviteten i fotbollsaktioner - Fotbollssprint 1",
+    "topic": "Explosiv träning",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 38,
+    "title": "Spelövning 1 - spelbarhet och spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 37,
+    "title": "Färdighetsövning 2 - spelbarhet och spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 23419,
+    "title": "FS teori - Glädje, ansträngning och lärande",
+    "topic": "",
+    "category": "",
+    "exerciseType": "",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23480,
+    "title": "FS teori - Barns och ungdomars villkor",
+    "topic": "",
+    "category": "",
+    "exerciseType": "",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23413,
+    "title": "FS teori - Fair Play",
+    "topic": "",
+    "category": "",
+    "exerciseType": "",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23484,
+    "title": "FS - Spelarna väljer valfri lek",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 8153,
+    "title": "FS - Färdighetsövning Driva",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 8157,
+    "title": "FS - Bollstafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 8163,
+    "title": "FS - Färdighetsövning skjuta",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 11257,
+    "title": "FS - Färdighetsövning Driva 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 11340,
+    "title": "FS - Spelövning Rädda distansskott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 11505,
+    "title": "FS - Spelövning Ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22966,
+    "title": "FS - Pendelspel i två lag",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22973,
+    "title": "FS - Passningsspel med High Five",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22981,
+    "title": "FS - Nummerboll med press",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22982,
+    "title": "FS - En mot en",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22983,
+    "title": "FS - Behålla bollen",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22984,
+    "title": "FS - Fyra hörn",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22985,
+    "title": "FS - Fotbollstennis",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23195,
+    "title": "FS - Spel 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23196,
+    "title": "FS - Spel 3",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23200,
+    "title": "FS - Spel 5 vs 5",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23201,
+    "title": "FS - Spel 7 vs 7",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10560,
+    "title": "FS - Färdighetsövning Tjuv och polis",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 11336,
+    "title": "FS - Färdighetsövning vända (Rävar och bönder)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10570,
+    "title": "FS - Färdighetsövning Skjuta",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10574,
+    "title": "FS - Spelövning Ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10577,
+    "title": "FS - Färdighetsövning Ta bollen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10620,
+    "title": "FS - Färdighetsövning Väggspel",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10626,
+    "title": "FS - Bollstafett",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10630,
+    "title": "FS - Stafett över - under",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10669,
+    "title": "FS - Spelövning Rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10761,
+    "title": "FS - Färdighetsövning Rädda avslut och skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10768,
+    "title": "FS - Bollstafett 2",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22862,
+    "title": "FS - Spel 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22863,
+    "title": "FS - Inte passa framåt",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22958,
+    "title": "FS - Fotbollskubb",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22961,
+    "title": "FS - Bowling",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22963,
+    "title": "FS - Prickboll",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22965,
+    "title": "FS - Inte nudda boll",
+    "topic": "Hoppa-landa-löp",
+    "category": "Fotbollsuppvärmning – förberedelseträning",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22979,
+    "title": "FS - Nummerboll målvakt",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22907,
+    "title": "FS - Gul och Blå",
+    "topic": "Explosiv träning",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23411,
+    "title": "FS teori - Hållbart idrottande",
+    "topic": "",
+    "category": "",
+    "exerciseType": "",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 23407,
+    "title": "FS teori - Fotboll för alla",
+    "topic": "",
+    "category": "",
+    "exerciseType": "",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22967,
+    "title": "FS - Pendelspel Grund",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22909,
+    "title": "FS - Tom och Jerry",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22908,
+    "title": "FS - Rädd om fötterna",
+    "topic": "Lek",
+    "category": "Fotbollsfys",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22905,
+    "title": "FS - Fånga eller nicka",
+    "topic": "Färdighetsövning",
+    "category": "",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22904,
+    "title": "FS - Knock out",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 22903,
+    "title": "FS - En mot en i yta",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": true,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10615,
+    "title": "FS - Parfotboll",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10590,
+    "title": "FS - Färdighetsövning Spelbarhet",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 10583,
+    "title": "FS - Färdighetsövning Markera",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 65520,
+    "title": "MV B, Ö2, Specialträning - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 65518,
+    "title": "MV B, Ö1, Förberedelseträning - Skott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 2024,
+    "title": "Målvakt B - Koordination parvis",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 1928,
+    "title": "Målvakt B - Koordination med små bollar",
+    "topic": "Fotbollskoordination",
+    "category": "Fotbollsfys",
+    "exerciseType": "Fysövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 105,
+    "title": "Speldjup bakåt - Spelövning",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 102,
+    "title": "Speldjup bakåt - Spelmomentövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 101,
+    "title": "Speldjup bakåt - Färdighetsövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 98,
+    "title": "Anfallsspel - Speluppbyggnad/Kontring - Igångsättning - Spelövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 95,
+    "title": "Anfallsspel - Speluppbyggnad/Kontring - Igångsättning - Färdighetsövning 1",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 94,
+    "title": "Anfallsspel - Speluppbyggnad - Speldjup bakåt - Spelövning 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 93,
+    "title": "Målvakt B - Speldjup bakåt - speluppbyggnad (SÖ 1)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 91,
+    "title": "Målvakt B - Speldjup bakåt - ta emot och passa bollen med fotens insida (FÖ 2)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 90,
+    "title": "Målvakt B - Speldjup bakåt - ta emot och passa bollen med fotens insida (FÖ 1)",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 89,
+    "title": "Målvakt B - Rädda avslut - skott - Spelmomentövning 2 - närskott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 88,
+    "title": "Målvakt B - Rädda avslut - skott - Spelmomentövning 1 - vinkelskott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 87,
+    "title": "Målvakt B - Rädda avslut - skott - kasta sig och stöta iväg bollen - palming (FÖ 4)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 86,
+    "title": "Målvakt B - Rädda avslut - skott - rädda avslut vid sidan om målvakten och undvika returer (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 85,
+    "title": "Målvakt B - Rädda avslut - skott - kasta sig och fånga bollar som går rakt på målvakten (FÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 84,
+    "title": "Målvakt B - Rädda avslut - skott - fånga bollen efter sidledsförflyttning (FÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 82,
+    "title": "Målvakt B - Spelmomentövning 2 - Inlägg - förhindra och rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 81,
+    "title": "Målvakt B - Spelmomentövning 1 - Inlägg - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 80,
+    "title": "Målvakt B - Inlägg - boxa bort bollen med en hand - boxteknik (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 76,
+    "title": "Målvakt B - Spelmomentövning - Djupledsspel-friläge - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 77,
+    "title": "Målvakt B - Djupledsspel-friläge - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 75,
+    "title": "Målvakt B - Djupledsspel-friläge - blockera avslut - målvakten står upp (FÖ 4)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 74,
+    "title": "Målvakt B - Djupledsspel-friläge - kasta sig och avstyra dribbling - fallteknik (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 73,
+    "title": "Målvakt B - Djupledsspel-friläge - fånga djupledspassning - greppteknik (FÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 71,
+    "title": "Målvakt B - Skott - rädda avslut (FÖ 3)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 70,
+    "title": "Målvakt B - Rädda avslut, fånga bollen, samarbete med utespelare (SÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 69,
+    "title": "Målvakt B - Skott - rädda avslut (SÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 68,
+    "title": "Målvakt B - Spelmomentövning - vinkelskott - rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 67,
+    "title": "Målvakt B - Kasta sig och fånga bollen - fallteknik",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 66,
+    "title": "Målvakt B - Fånga bollen - greppteknik (FÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 58,
+    "title": "Målvakt B - Spelmomentövning - Djupledsspel - friläge - förhindra och rädda avslut",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 57,
+    "title": "Målvakt B - Djupledsspel - friläge - förhindra och rädda avslut (SÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 56,
+    "title": "Målvakt B - Kasta sig och fånga djupledspassning - fallteknik (FÖ 2)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 55,
+    "title": "Målvakt B - Fånga djupledspassning - greppteknik (FÖ 1)",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": false
+    }
+  },
+  {
+    "id": 39215,
+    "title": "passning i 4 kvadrater",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 39214,
+    "title": "skottmatch",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 31417,
+    "title": "avslut och förbättra expl",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 30457,
+    "title": "skarva vända vinkla - ft",
+    "topic": "Fotarbete",
+    "category": "Fotbollsuppvärmning – förberedelseträning",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 29376,
+    "title": "ledig yta efter passning",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 29370,
+    "title": "Dubbelkvadrat",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 25740,
+    "title": "4 VS 0 KONTRING",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 15764,
+    "title": "vagga i bredd mot vagga i djup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 10441,
+    "title": "spela där de lämnat linjen-försvara linjen",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 9696,
+    "title": "passningsuppvärmning 8 och 8",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 4419,
+    "title": "lagdelar framför",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 4417,
+    "title": "skuggspel - hur tar vi oss in i spelyta 3?",
+    "topic": "Komma till avslut och göra mål",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 4309,
+    "title": "Spelövning (mellanstort spel) - grundförutsättningar i anfallsspel och kollektiva anfallsmetoder",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 4304,
+    "title": "Spelövning (smålagsspel) - närskott",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 4299,
+    "title": "Färdighetsövning - kasta sig och fånga bollen",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 2064,
+    "title": "Färdighetsövning - 1 mot 1 plus målvakt",
+    "topic": "Förhindra och rädda avslut",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 186,
+    "title": "Spelövning (smålagsspel) - press och täckning",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 185,
+    "title": "Färdighetsövning - pressa",
+    "topic": "Förhindra speluppbyggnad",
+    "category": "Försvarsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 173,
+    "title": "Spelövning (smålagsspel) - direkt återerövring 2",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 172,
+    "title": "Spelövning (smålagsspel) - direkt återerövring",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 132,
+    "title": "Spelövning (smålagsspel) - kontring",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 131,
+    "title": "Färdighetsövning - kontring passa",
+    "topic": "Kontring",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 129,
+    "title": "Färdighetsövning - passa 5",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 120,
+    "title": "Färdighetsövning - spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 118,
+    "title": "Färdighetsövning - passa 4",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 117,
+    "title": "Spelövning (mellanstort spel) - spelbarhet",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 116,
+    "title": "Färdighetsövning - spelbarhet",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 115,
+    "title": "Spelövning (mellanstort spel) - speldjup",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 113,
+    "title": "Färdighetsövning - passa 3",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 35,
+    "title": "Spelövning (smålagsspel) - djupledsspel",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 34,
+    "title": "Spelövning (smålagsspel) - spelbarhet",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 33,
+    "title": "Spelövning (smålagsspel) - spelavstånd",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 32,
+    "title": "Färdighetsövning - passa 2",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 38478,
+    "title": "Spel i central tredjedel (återerövring)",
+    "topic": "Återerövring av bollen",
+    "category": "Försvarsspel",
+    "exerciseType": "Spelövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 58344,
+    "title": "1 mot 1 mot mål",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": false,
+      "9v9": false,
+      "11v11": false
+    }
+  },
+  {
+    "id": 30,
+    "title": "Färdighetsövning - passa",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": false,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  },
+  {
+    "id": 29374,
+    "title": "FCK",
+    "topic": "Speluppbyggnad",
+    "category": "Anfallsspel",
+    "exerciseType": "Färdighetsövning",
+    "levels": {
+      "3v3": false,
+      "5v5": true,
+      "7v7": true,
+      "9v9": true,
+      "11v11": true
+    }
+  }
+]

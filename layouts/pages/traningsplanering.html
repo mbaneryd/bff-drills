@@ -1,0 +1,11 @@
+{{ define "main" }}
+<header>
+  <nav><a href="{{ "sessions/" | relURL }}">← Träningspass</a></nav>
+  <h1>{{ .Title }}</h1>
+  <div class="meta">Järna Sportklubb · 7–12 år</div>
+</header>
+<main class="page-content">
+  {{ .Content }}
+</main>
+<footer>Källa: Järna Sportklubb Övningsbank – Version 1.0 Februari 2022</footer>
+{{ end }}

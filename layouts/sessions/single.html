@@ -1,0 +1,97 @@
+{{ define "main" }}
+<header>
+  <nav><a href="{{ "sessions/" | relURL }}">← Alla träningspass</a></nav>
+  <h1>{{ .Title }}</h1>
+  <div class="meta">
+    {{- with .Params.category }}{{ . }}{{ end }}
+    {{- with .Params.topic }} — {{ . }}{{ end }}
+    {{- with .Params.tema }}{{ . }}{{ end }}
+    {{- with .Params.gameFormat }} · {{ . }}{{ end }}
+  </div>
+</header>
+<main class="session-detail">
+  {{ if or .Params.description .Content }}
+  <div class="description">
+    {{ with .Params.description }}<p>{{ . }}</p>{{ end }}
+    {{ .Content }}
+  </div>
+  {{ end }}
+
+  {{ $exercises := .Params.exercises }}
+  {{ $exerciseIds := .Params.exerciseIds }}
+  {{ $totalMin := .Params.totalMinutes }}
+
+  <h2>Övningar ({{ .Params.exerciseCount }} st){{ with $totalMin }} · {{ . }} min totalt{{ end }}</h2>
+  <div class="grid">
+    {{ if $exercises }}
+      {{/* Rich exercise list with minutes */}}
+      {{ range $exercises }}
+        {{ $id := .id }}
+        {{ $minutes := .minutes }}
+        {{ $ex := false }}
+        {{ with site.GetPage (printf "/exercises/svff/%v" $id) }}{{ $ex = . }}{{ end }}
+        {{ if not $ex }}{{ with site.GetPage (printf "/exercises/jsk/%v" $id) }}{{ $ex = . }}{{ end }}{{ end }}
+        {{ if not $ex }}{{ with site.GetPage (printf "/exercises/sik/%v" $id) }}{{ $ex = . }}{{ end }}{{ end }}
+        {{ if $ex }}
+          <a class="ex-card" href="{{ $ex.RelPermalink }}">
+            {{ with $ex.Params.image }}
+            <img src="{{ printf "images/%s" . | relURL }}" onerror="imgErr(this)" loading="lazy">
+            {{ else }}
+            <div class="no-img">⚽</div>
+            {{ end }}
+            <div class="ex-title">{{ $ex.Title }}</div>
+            <div class="ex-topic">
+              {{- with $ex.Params.topic }}{{ . }}{{ end }}{{ with $ex.Params.tema }}{{ . }}{{ end -}}
+              {{- with $minutes }} · {{ . }} min{{ end -}}
+              {{- with $ex.Params.duration }} · {{ . }}{{ end -}}
+            </div>
+          </a>
+        {{ else }}
+          <div class="ex-card" style="opacity:.5">
+            <div class="no-img">⚽</div>
+            <div class="ex-title">{{ with .name }}{{ . }}{{ else }}Övning {{ $id }}{{ end }}</div>
+            <div class="ex-topic">{{ with $minutes }}{{ . }} min · {{ end }}Ej tillgänglig lokalt</div>
+          </div>
+        {{ end }}
+      {{ end }}
+    {{ else if $exerciseIds }}
+      {{/* Simple ID list (SvFF sessions) */}}
+      {{ range $exerciseIds }}
+        {{ $id := . }}
+        {{ $ex := false }}
+        {{ with site.GetPage (printf "/exercises/svff/%v" $id) }}{{ $ex = . }}{{ end }}
+        {{ if not $ex }}{{ with site.GetPage (printf "/exercises/jsk/%v" $id) }}{{ $ex = . }}{{ end }}{{ end }}
+        {{ if not $ex }}{{ with site.GetPage (printf "/exercises/sik/%v" $id) }}{{ $ex = . }}{{ end }}{{ end }}
+        {{ if $ex }}
+          <a class="ex-card" href="{{ $ex.RelPermalink }}">
+            {{ with $ex.Params.image }}
+            <img src="{{ printf "images/%s" . | relURL }}" onerror="imgErr(this)" loading="lazy">
+            {{ else }}
+            <div class="no-img">⚽</div>
+            {{ end }}
+            <div class="ex-title">{{ $ex.Title }}</div>
+            <div class="ex-topic">{{ with $ex.Params.topic }}{{ . }}{{ end }}{{ with $ex.Params.tema }}{{ . }}{{ end }}{{ with $ex.Params.duration }} · {{ . }}{{ end }}</div>
+          </a>
+        {{ else }}
+          <div class="ex-card" style="opacity:.5">
+            <div class="no-img">⚽</div>
+            <div class="ex-title">Övning {{ $id }}</div>
+            <div class="ex-topic">Ej tillgänglig lokalt</div>
+          </div>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </div>
+
+  <footer>
+    {{ if eq .Params.source "svff_ovningsbanken" }}
+      {{ with .Params.sourceUrl }}<a href="{{ . }}">Källa: SvFF Övningsbanken</a> · {{ end }}Pass ID: {{ .Params.sessionId }}
+    {{ else if eq .Params.source "jsk_ovningsbank" }}
+      Källa: Järna Sportklubb Övningsbank
+    {{ else if eq .Params.source "sik_traningsplanering" }}
+      Källa: Sundbybergs IK Träningsplanering 5v5 · {{ with .Params.sourceFile }}{{ . }}{{ end }}
+    {{ end }}
+  </footer>
+</main>
+<script>function imgErr(el){el.outerHTML='<div class="no-img">⚽</div>';}</script>
+{{ end }}

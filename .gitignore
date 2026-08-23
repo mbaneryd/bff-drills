@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+public/
+.hugo_build.lock
+sources/svff/_batches/

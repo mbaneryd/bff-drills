@@ -1,0 +1,115 @@
+{{ define "title" }}Träningspass{{ end }}
+{{ define "main" }}
+{{ $all := .Pages }}
+{{ $svff := where $all "Params.source" "svff_ovningsbanken" }}
+{{ $jsk := where $all "Params.source" "jsk_ovningsbank" }}
+{{ $sik := where $all "Params.source" "sik_traningsplanering" }}
+<header>
+  <h1>Träningspass</h1>
+  <nav>
+    <a href="{{ "exercises/" | relURL }}">← Övningar</a>
+    <a href="{{ "sik-arsplan/" | relURL }}">SIK Årsplan</a>
+    <a href="{{ "jsk-traningsplanering/" | relURL }}">JSK Planering</a>
+  </nav>
+  <span class="count" id="count"></span>
+</header>
+<div class="filters">
+  <div class="src-btns">
+    <button class="src-btn on" data-src="all">Alla ({{ len $all }})</button>
+    <button class="src-btn" data-src="svff_ovningsbanken">SvFF ({{ len $svff }})</button>
+    <button class="src-btn" data-src="jsk_ovningsbank">JSK ({{ len $jsk }})</button>
+    <button class="src-btn" data-src="sik_traningsplanering">SIK ({{ len $sik }})</button>
+  </div>
+  <input type="text" id="q" placeholder="Sök träningspass...">
+  <select id="cat">
+    <option value="">Alla kategorier</option>
+    {{ $cats := slice }}
+    {{ range $all }}{{ with .Params.category }}{{ $cats = $cats | append . }}{{ end }}{{ end }}
+    {{ range (uniq (sort $cats)) }}<option value="{{ . }}">{{ . }}</option>{{ end }}
+  </select>
+  <select id="age">
+    <option value="">Alla åldrar</option>
+    {{ $ages := slice }}
+    {{ range $all }}{{ with .Params.ageGroup }}{{ $ages = $ages | append . }}{{ end }}{{ end }}
+    {{ range (uniq (sort $ages)) }}<option value="{{ . }}">{{ . }} år</option>{{ end }}
+  </select>
+</div>
+<main><div class="session-grid" id="grid"></div></main>
+<script>
+const DATA = [{{ range $i, $p := $all }}{{ if $i }},{{ end }}{{ dict "id" (default "" $p.Params.sessionId) "title" $p.Title "href" $p.RelPermalink "source" (default "" $p.Params.source) "category" (default "" $p.Params.category) "topic" (default "" $p.Params.topic) "exerciseCount" (default 0 $p.Params.exerciseCount) "ageGroup" (default "" $p.Params.ageGroup) "gameFormat" (default "" $p.Params.gameFormat) "totalMinutes" (default 0 $p.Params.totalMinutes) | jsonify | safeJS }}{{ end }}];
+
+const grid = document.getElementById('grid');
+const countEl = document.getElementById('count');
+const qEl = document.getElementById('q');
+const catEl = document.getElementById('cat');
+const ageEl = document.getElementById('age');
+const srcBtns = document.querySelectorAll('.src-btn');
+let activeSrc = 'all';
+
+function render() {
+  const q = qEl.value.toLowerCase();
+  const cat = catEl.value;
+  const age = ageEl.value;
+  const filtered = DATA.filter(s => {
+    if (activeSrc !== 'all' && s.source !== activeSrc) return false;
+    if (q && !s.title.toLowerCase().includes(q) && !(s.topic||'').toLowerCase().includes(q) && !(s.category||'').toLowerCase().includes(q)) return false;
+    if (cat && s.category !== cat) return false;
+    if (age && s.ageGroup !== age) return false;
+    return true;
+  });
+  countEl.textContent = filtered.length + ' pass';
+  if (!filtered.length) { grid.innerHTML = '<div class="empty">Inga träningspass hittades</div>'; syncToHash(); return; }
+  grid.innerHTML = filtered.map(s => {
+    const isJsk = s.source === 'jsk_ovningsbank';
+    const isSik = s.source === 'sik_traningsplanering';
+    const jskBadge = isJsk ? '<span class="tag-jsk">JSK</span>' : '';
+    const sikBadge = isSik ? '<span class="tag-sik">SIK</span>' : '';
+    const ageBadge = s.ageGroup ? `<span class="tag-age">${s.ageGroup} år</span>` : '';
+    const fmtBadge = s.gameFormat ? `<span class="tag-fmt">${s.gameFormat}</span>` : '';
+    const minsBadge = s.totalMinutes ? `<span class="tag-mins">${s.totalMinutes} min</span>` : '';
+    const catBadge = s.category ? `<span class="tag-cat">${s.category}</span>` : '';
+    const topicBadge = s.topic ? `<span class="tag-topic">${s.topic}</span>` : '';
+    return `<a class="session-card" href="${s.href}">
+      <div class="card-title">${s.title}</div>
+      <div class="card-tags">
+        ${jskBadge}${sikBadge}${ageBadge}${fmtBadge}${catBadge}${topicBadge}${minsBadge}
+        <span class="tag-count">${s.exerciseCount} övningar</span>
+      </div>
+    </a>`;
+  }).join('');
+  syncToHash();
+}
+
+srcBtns.forEach(btn => btn.addEventListener('click', () => {
+  activeSrc = btn.dataset.src;
+  srcBtns.forEach(b => b.classList.toggle('on', b === btn));
+  render();
+}));
+qEl.addEventListener('input', render);
+catEl.addEventListener('change', render);
+ageEl.addEventListener('change', render);
+
+function syncToHash() {
+  const p = new URLSearchParams();
+  if (activeSrc !== 'all') p.set('src', activeSrc);
+  if (qEl.value) p.set('q', qEl.value);
+  if (catEl.value) p.set('cat', catEl.value);
+  if (ageEl.value) p.set('age', ageEl.value);
+  const h = p.toString();
+  history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
+}
+
+function loadFromHash() {
+  const p = new URLSearchParams(location.hash.slice(1));
+  activeSrc = p.get('src') || 'all';
+  qEl.value = p.get('q') || '';
+  catEl.value = p.get('cat') || '';
+  ageEl.value = p.get('age') || '';
+  srcBtns.forEach(b => b.classList.toggle('on', b.dataset.src === activeSrc));
+  render();
+}
+
+window.addEventListener('popstate', loadFromHash);
+loadFromHash();
+</script>
+{{ end }}

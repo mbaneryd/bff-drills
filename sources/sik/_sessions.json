@@ -1,0 +1,219 @@
+[
+  {
+    "sessionId": "sik_5v5_03_komma_till_avslut_fardigheter_1",
+    "title": "SIK 5v5 – Komma till avslut",
+    "tema": "Komma till avslut",
+    "fokus": "Spelarens färdigheter: Avslut, driva, passa",
+    "gameFormat": "5v5",
+    "exerciseCount": 5,
+    "totalMinutes": 60,
+    "exerciseIds": [
+      "sik_5v5_03_komma_till_avslut_fardigheter_1_p2",
+      "sik_5v5_03_komma_till_avslut_fardigheter_1_p4",
+      "sik_5v5_03_komma_till_avslut_fardigheter_1_p5",
+      "sik_5v5_03_komma_till_avslut_fardigheter_1_p6",
+      "sik_5v5_03_komma_till_avslut_fardigheter_1_p7"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "03_komma_till_avslut_fardigheter_1.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_04_komma_till_avslut_fardigheter_2",
+    "title": "SIK 5v5 – Komma till avslut",
+    "tema": "Komma till avslut",
+    "fokus": "Spelarens färdigheter: Avslut, driva, passa",
+    "gameFormat": "5v5",
+    "exerciseCount": 5,
+    "totalMinutes": 65,
+    "exerciseIds": [
+      "sik_5v5_04_komma_till_avslut_fardigheter_2_p2",
+      "sik_5v5_04_komma_till_avslut_fardigheter_2_p4",
+      "sik_5v5_04_komma_till_avslut_fardigheter_2_p5",
+      "sik_5v5_04_komma_till_avslut_fardigheter_2_p6",
+      "sik_5v5_04_komma_till_avslut_fardigheter_2_p7"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "04_komma_till_avslut_fardigheter_2.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_05_komma_till_avslut_forhindra_avslut_3",
+    "title": "SIK 5v5 – Komma till avslut/Förhindra avslut",
+    "tema": "Komma till avslut/Förhindra avslut",
+    "fokus": "Spelarens färdigheter: Avslut, driva, passa, dribbla, täcka, bryta",
+    "gameFormat": "5v5",
+    "exerciseCount": 6,
+    "totalMinutes": 75,
+    "exerciseIds": [
+      "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p2",
+      "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p3",
+      "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p4",
+      "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p5",
+      "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p6",
+      "sik_5v5_05_komma_till_avslut_forhindra_avslut_3_p7"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "05_komma_till_avslut_forhindra_avslut_3.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_06_komma_till_avslut_forhindra_avslut_4",
+    "title": "SIK 5v5 – Komma till avslut/Förhindra avslut",
+    "tema": "Komma till avslut/Förhindra avslut",
+    "fokus": "Spelarens färdigheter: Avslut, driva, passa, dribbla, täcka, Markera, bryta",
+    "gameFormat": "5v5",
+    "exerciseCount": 5,
+    "totalMinutes": 55,
+    "exerciseIds": [
+      "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p2",
+      "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p3",
+      "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p4",
+      "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p5",
+      "sik_5v5_06_komma_till_avslut_forhindra_avslut_4_p6"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "06_komma_till_avslut_forhindra_avslut_4.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_07_komma_till_avslut_forhindra_avslut_5",
+    "title": "SIK 5v5 – Komma till avslut/Förhindra avslut",
+    "tema": "Komma till avslut/Förhindra avslut",
+    "fokus": "Spelarens färdigheter: Avslut, driva, Orientering, passa, dribbla, täcka,",
+    "gameFormat": "5v5",
+    "exerciseCount": 5,
+    "totalMinutes": 60,
+    "exerciseIds": [
+      "sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p2",
+      "sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p4",
+      "sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p5",
+      "sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p6",
+      "sik_5v5_07_komma_till_avslut_forhindra_avslut_5_p7"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "07_komma_till_avslut_forhindra_avslut_5.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_08_behalla_boll_1",
+    "title": "SIK 5v5 – Behålla boll",
+    "tema": "Behålla boll",
+    "fokus": "Spelarens färdigheter: Fotarbete, Snabbhet, driva",
+    "gameFormat": "5v5",
+    "exerciseCount": 5,
+    "totalMinutes": 75,
+    "exerciseIds": [
+      "sik_5v5_08_behalla_boll_1_p2",
+      "sik_5v5_08_behalla_boll_1_p4",
+      "sik_5v5_08_behalla_boll_1_p5",
+      "sik_5v5_08_behalla_boll_1_p6",
+      "sik_5v5_08_behalla_boll_1_p7"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "08_behalla_boll_1.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_09_behalla_boll_2",
+    "title": "SIK 5v5 – Behålla boll (Speluppbyggnad, spelbarhet)",
+    "tema": "Behålla boll (Speluppbyggnad, spelbarhet)",
+    "fokus": "Spelarens färdigheter: Orientering, spelbarhet, kasta, fånga",
+    "gameFormat": "5v5",
+    "exerciseCount": 5,
+    "totalMinutes": 85,
+    "exerciseIds": [
+      "sik_5v5_09_behalla_boll_2_p2",
+      "sik_5v5_09_behalla_boll_2_p4",
+      "sik_5v5_09_behalla_boll_2_p5",
+      "sik_5v5_09_behalla_boll_2_p6",
+      "sik_5v5_09_behalla_boll_2_p7"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "09_behalla_boll_2.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_10_behalla_boll_3",
+    "title": "SIK 5v5 – Behålla boll (Speluppbyggnad, spelbarhet)",
+    "tema": "Behålla boll (Speluppbyggnad, spelbarhet)",
+    "fokus": "spelarens färdigheter: Orientering, driva, spelbarhet, passa",
+    "gameFormat": "5v5",
+    "exerciseCount": 4,
+    "totalMinutes": 60,
+    "exerciseIds": [
+      "sik_5v5_10_behalla_boll_3_p2",
+      "sik_5v5_10_behalla_boll_3_p3",
+      "sik_5v5_10_behalla_boll_3_p4",
+      "sik_5v5_10_behalla_boll_3_p5"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "10_behalla_boll_3.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_11_behalla_boll_4",
+    "title": "SIK 5v5 – Behålla boll",
+    "tema": "Behålla boll",
+    "fokus": "Spelarens färdigheter: Fotarbete, Passa, Ta emot pass, Snabbhet, driva",
+    "gameFormat": "5v5",
+    "exerciseCount": 4,
+    "totalMinutes": 70,
+    "exerciseIds": [
+      "sik_5v5_11_behalla_boll_4_p3",
+      "sik_5v5_11_behalla_boll_4_p4",
+      "sik_5v5_11_behalla_boll_4_p5",
+      "sik_5v5_11_behalla_boll_4_p6"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "11_behalla_boll_4.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_12_behalla_boll_5",
+    "title": "SIK 5v5 – Behålla boll (Speluppbyggnad, Spelbarhet)",
+    "tema": "Behålla boll (Speluppbyggnad, Spelbarhet)",
+    "fokus": "Spelarens färdigheter: Orientering, spelbarhet, passa, driva, Bryta",
+    "gameFormat": "5v5",
+    "exerciseCount": 4,
+    "totalMinutes": 65,
+    "exerciseIds": [
+      "sik_5v5_12_behalla_boll_5_p2",
+      "sik_5v5_12_behalla_boll_5_p3",
+      "sik_5v5_12_behalla_boll_5_p4",
+      "sik_5v5_12_behalla_boll_5_p5"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "12_behalla_boll_5.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_13_behalla_boll_6",
+    "title": "SIK 5v5 – Behålla boll",
+    "tema": "Behålla boll",
+    "fokus": "Spelarens färdigheter: Orientering, Fotarbete, VÄnda, Snabbhet, driva",
+    "gameFormat": "5v5",
+    "exerciseCount": 4,
+    "totalMinutes": 70,
+    "exerciseIds": [
+      "sik_5v5_13_behalla_boll_6_p2",
+      "sik_5v5_13_behalla_boll_6_p3",
+      "sik_5v5_13_behalla_boll_6_p4",
+      "sik_5v5_13_behalla_boll_6_p5"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "13_behalla_boll_6.pdf"
+  },
+  {
+    "sessionId": "sik_5v5_14_fotbollskoordination",
+    "title": "SIK 5v5 – Fotbollskoordination",
+    "tema": "Fotbollskoordination",
+    "fokus": "",
+    "gameFormat": "5v5",
+    "exerciseCount": 9,
+    "totalMinutes": 65,
+    "exerciseIds": [
+      "sik_5v5_14_fotbollskoordination_p2",
+      "sik_5v5_14_fotbollskoordination_p3",
+      "sik_5v5_14_fotbollskoordination_p4",
+      "sik_5v5_14_fotbollskoordination_p5",
+      "sik_5v5_14_fotbollskoordination_p6",
+      "sik_5v5_14_fotbollskoordination_p7",
+      "sik_5v5_14_fotbollskoordination_p8",
+      "sik_5v5_14_fotbollskoordination_p9",
+      "sik_5v5_14_fotbollskoordination_p10"
+    ],
+    "source": "sik_traningsplanering",
+    "sourceFile": "14_fotbollskoordination.pdf"
+  }
+]
