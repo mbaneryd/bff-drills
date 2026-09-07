@@ -1,0 +1,136 @@
+# BFF Drills – Övningsbank för ungdomsfotboll
+
+> Övningsbank med 552 övningar och 180 träningspass för barn- och ungdomsfotboll (7–12 år). Byggd på material från Svenska Fotbollförbundet (SvFF), Järna Sportklubb (JSK) och Sundbybergs IK (SIK).
+
+## Siten
+
+- URL: https://mbaneryd.github.io/bff-drills/
+- Övningar: https://mbaneryd.github.io/bff-drills/exercises/
+- Träningspass: https://mbaneryd.github.io/bff-drills/sessions/
+- SIK Årsplan: https://mbaneryd.github.io/bff-drills/sik-arsplan/
+- JSK Planering: https://mbaneryd.github.io/bff-drills/jsk-traningsplanering/
+- P2019 Höstplan: https://mbaneryd.github.io/bff-drills/p2019-hostplan/
+
+## Övningsbanken
+
+552 övningar från tre källor:
+
+- **420 SvFF-övningar** – från Svenska Fotbollförbundets Övningsbanken, filtrerade till 3v3, 5v5 och 7v7
+- **71 JSK-övningar** – från Järna Sportklubb (7–9 år 5v5, 10–12 år 7v7)
+- **61 SIK-övningar** – från Sundbybergs IK (5v5)
+
+Varje övning har en sida med bild/diagram, beskrivning, organisation, anvisningar och progressioner.
+
+### URL-mönster för övningar
+
+- SvFF: `/bff-drills/exercises/svff/{exerciseId}/` (t.ex. `/bff-drills/exercises/svff/288/`)
+- JSK: `/bff-drills/exercises/jsk/jsk_{ageGroup}_{num}/` (t.ex. `/bff-drills/exercises/jsk/jsk_7_9_6/`)
+- SIK: `/bff-drills/exercises/sik/{slug}/` (t.ex. `/bff-drills/exercises/sik/distansskott/`)
+
+### Övningarnas metadata
+
+Varje övning har strukturerad data:
+
+- `title` – övningens namn
+- `source` – "svff_ovningsbanken", "jsk_ovningsbank" eller "sik_traningsplanering"
+- `levels` – vilka spelformat den passar: 3v3, 5v5, 7v7, 9v9, 11v11
+- `image` – diagram/bild (relativ sökväg under /bff-drills/images/)
+- SvFF har även: `category`, `topic`, `exerciseType`, `videoUrl`
+- JSK har även: `ageGroup` ("7-9" eller "10-12"), `gameFormat`
+- SIK har även: `tema`, `duration`, `areaSize`, `playerSkills`
+
+## Träningspass
+
+180 färdiga träningspass:
+
+- **92 SvFF-sessioner** – för olika spelformat och teman
+- **76 JSK-sessioner** – 22 pass (7 år), 10 pass (8–9 år), 8 pass (10–12 år)
+- **12 SIK-sessioner** – 5v5 med temarotation
+
+## Åldersgrupper och spelformat
+
+Enligt SvFFs Spelarutbildningsplan:
+
+| Ålder | Spelformat | SvFF-nivå | Fokus |
+|-------|-----------|-----------|-------|
+| 6–7 år | 3v3 → 5v5 | Nivå 1: "Jag och bollen" | Individuell bollkontakt, lek |
+| 8–9 år | 5v5 → 7v7 | Nivå 2: "Jag, bollen och kompisen" | Teknik + enkel samarbete |
+| 10–11 år | 7v7 → 9v9 | Nivå 3: "Jag, bollen, kompisen och motståndaren" | Teknik + spelförståelse |
+| 12–13 år | 9v9 → 11v11 | Nivå 4: "Lag mot lag" | Lagtaktik |
+
+## Träningsprinciper
+
+### SvFF – grundregler
+- Minst hälften av varje pass ska vara spel (match)
+- Beröm insats och försök, inte resultat
+- Ingen toppning – alla spelar lika mycket
+- Uppmuntra allsidighet, ingen tidig specialisering
+
+### JSK – "Isolerad till funktionell"
+- Ledordet är att VÅGA – det ska vara tryggt att misslyckas
+- Progression i varje pass: isolerad teknik → spelsituation → isolerad teknik → smålagsspel
+- Stationsträning med 2–4 stationer för att maximera bollkontakter
+- Använd jokers (neutrala spelare) för att hantera ojämna antal
+- Båda fötterna ska användas i alla övningar
+- Kallar 10–12 år "den gyllene åldern" – hög mottaglighet för teknikinlärning
+
+### SIK – tvåtema-rotation
+- Träningarna roterar mellan två huvudteman: "Komma till avslut / Förhindra avslut" och "Behålla boll"
+- Varje övning har en fotbollspsykologi-komponent
+- Dubbelsidigt: anfallsspel och försvarsspel tränas parallellt
+- Spelarkvalitéer anfall: Orientering, Spelbarhet, Mottagning, Passning, Drivning, Vändning, Dribbling, Avslut
+- Spelarkvalitéer försvar: Orientering, Pressning, Täckning, Markering, Brytning/Tackling
+
+## Passstruktur – 60 minuter
+
+Rekommenderad struktur för 20+ spelare:
+
+| Tid | Moment | Innehåll |
+|-----|--------|----------|
+| 0–10 min | Samling + lek | Uppvärmning med boll + FIFA 11+ Kids-element |
+| 10–25 min | Huvudövning | 2 övningar dubblerade till 4 grupper (~6 barn/grupp, 7–8 min/övning) |
+| 25–50 min | Matchspel | Smålagsspel på 2 parallella planer |
+| 50–60 min | Avslutning | Rolig lek + samling |
+
+### Stationsupplägg (15–25 spelare)
+
+Kör 2 temaövningar dubblerade till 4 grupper istället för 4 unika stationer:
+- Övning A (färdighetsövning) körs på plats 1 och 3 parallellt
+- Övning B (spelövning) körs på plats 2 och 4 parallellt
+- 7–8 min per övning, en rotation
+
+### Spelarantal
+
+- 15 barn: 3 grupper à 5. Matchspel: 5v5 + 5 roterar in.
+- 20 barn: 4 grupper à 5. Matchspel: 5v5 + 5v5 på 2 planer.
+- 25 barn: 4 grupper à ~6. Matchspel: 5v5 + 5v5 + 5 roterar in.
+
+## Tips för att skapa träningspass
+
+1. **Välj tema** baserat på SvFF-nivå och åldersgrupp
+2. **Välj övningar** som matchar temat och spelformatet – sök i övningsbanken med nivåfilter
+3. **En färdighetsövning + en spelövning** per pass (dubblerade för stora grupper)
+4. **Länka till övningarna** i planen så ledarna kan se bilder och instruktioner
+5. **Bonusregler i matchspelet** motiverar temat utan att coacha taktiskt (t.ex. "dubbelpoäng för lyckad vändning")
+6. **Avsluta med lek** – barnen ska gå hem glada
+
+### Bra uppvärmningar som funkar för alla teman
+- Vän med bollen (JSK #7) – par, driva fram och tillbaka med variation
+- Stoppljuset (JSK #25) – alla driver, ledaren ropar kommandon
+- Alla inne (JSK #1) – bolllek med hög aktivitet
+
+### Teman och förslag på övningar per ålder
+
+**7–9 år (5v5):**
+- Driva: JSK #6 Konskog, #7 Vän med bollen, SvFF #58299 Driva över linje, #58308 Fyra hörn
+- Vända: SvFF #249/#252 Färdighetsövning vända, #251 Spelövning vända
+- Passa: SvFF #288/#292 Färdighetsövning passa, #289 Spelövning passa 4v1, #58382 Behålla bollen
+- Skjuta: JSK #12 Skottträning, #14 Avslut med väggspel, SvFF #58429 Isolerade skott
+- Pressa/bryta: SvFF #276 Ta bollen, #277 Spelövning ta bollen, #290 Markera
+- Utmana: JSK #19 Match 1v1, SvFF #58342 Rävarna och bönder
+
+**10–12 år (7v7):**
+- Drivteknik: JSK 10-12 #1 Drillen, #3 Teknikdiagonalen, #6 1v1 med kortlinje
+- Passningsteknik: JSK 10-12 #16 Passningsdiamanten, #11 Kvadratpass, #18 Y:et, #13 Ajax Trianglar
+- Avslut: JSK 10-12 #22 Toni Kroos, #21 Avslut med inlägg
+- Spelvändningar: JSK 10-12 #24 Vända spel, #28 Zonspel mittlinje
