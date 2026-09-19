@@ -21,10 +21,10 @@ Barnen rör sig från **"Jag och bollen"** mot **"Jag, bollen och kompisen"**. H
 |-------|--------|------|-------------------|----------------|
 | 1 | v35–36 | **[Driva och vända](#block-1-driva-och-vända)** | Driva med kontroll, vändningar | Vända under press (1v1) |
 | 2 | v37–38 | **[Passa och ta emot](#block-2-passa-och-ta-emot)** | Insidapass, mottagning | Pass i rörelse, väggpassning |
-| 3 | v39–40 | **Pressa och bryta** | Gå mot bollen, bryta | Omställning |
-| 4 | v41–42 | **Avslut och göra mål** | Skjuta vrist/insida | Avslut efter kombination |
-| 5 | v43–44 | **Samspel** | Hitta fri kompis, spelbredd | Rörelse utan boll, joker-spel |
-| 6 | v45–46 | **Allt ihop — vi spelar!** | Alla färdigheter | Säsongsavslut |
+| 3 | v39–40 | **[Pressa och bryta](#block-3-pressa-och-bryta)** | Gå mot bollen, bryta | Omställning |
+| 4 | v41–42 | **[Avslut och göra mål](#block-4-avslut-och-göra-mål)** | Skjuta vrist/insida | Avslut efter kombination |
+| 5 | v43–44 | **[Samspel](#block-5-samspel)** | Hitta fri kompis, spelbredd | Rörelse utan boll, joker-spel |
+| 6 | v45–46 | **[Allt ihop — vi spelar!](#block-6-allt-ihop--vi-spelar)** | Alla färdigheter | Säsongsavslut |
 
 {{< /card >}}
 
@@ -71,7 +71,7 @@ Barnen har tränat driva (block 3) och vända (block 2) som separata teman under
 
 | Tid | Moment | Beskrivning |
 |-----|--------|-------------|
-| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka med olika tekniker: insida, utsida, sula. Fokus idag: **driva + vänd tvärt vid konan.** Inkludera sidosteg och hopp (FIFA 11+ Kids). |
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka med olika tekniker: insida, utsida, sula. Variera fot och tempo. Inkludera sidosteg och hopp (FIFA 11+ Kids). |
 | 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
 | 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). **Bonusregel: mål efter lyckad vändning räknas dubbelt!** Rotera lag halvtid. |
 | 50–60 min | Avslutning | **[VM](/bff-drills/exercises/jsk/jsk_7_9_22/)** – Alla driver boll i fyrkant, försök sparka ut andras bollar. Sista kvar vinner! Samling + Bällsta-rop. |
@@ -127,7 +127,7 @@ Snabba reps — byt lag efter varje mål.
 
 | Tid | Moment | Beskrivning |
 |-----|--------|-------------|
-| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Fokus idag: **variera fot och tempo, lägg till fint vid vändning.** Inkludera hopp och balans (FIFA 11+ Kids). |
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera hopp och balans (FIFA 11+ Kids). |
 | 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
 | 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). Idag utan specialregler — fri match. Coachen uppmuntrar vändningar och drivningar men styr inte. Rotera lag halvtid. |
 | 50–60 min | Avslutning | **[Domarn hur långt är det kvar](/bff-drills/exercises/jsk/jsk_7_9_23/)** – Alla driver boll. Ledaren räknar steg med ryggen vänd och vänder sig plötsligt — alla ska stå still med fot på boll. Samling + Bällsta-rop. |
@@ -193,7 +193,7 @@ Barnen har passningserfarenhet från vårens block 5. Nu höjer vi kravet: pass 
 
 | Tid | Moment | Beskrivning |
 |-----|--------|-------------|
-| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Fokus idag: **passa till kompisen istället för att driva tillbaka.** Insidapass, stödfoten pekar mot kompisen. Inkludera sidosteg och hopp (FIFA 11+ Kids). |
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera sidosteg och hopp (FIFA 11+ Kids). |
 | 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
 | 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). **Bonusregel: mål efter 3 lyckade pass i rad räknas dubbelt!** Uppmuntra passning utan att kräva det. Rotera lag halvtid. |
 | 50–60 min | Avslutning | **Passningsstafett** – Två led, passa till kompisen mitt emot, spring och ställ dig sist i andra ledet. Laget som kommer runt först vinner! Samling + Bällsta-rop. |
@@ -245,7 +245,7 @@ Par, 10 m avstånd. Passa fram och tillbaka med insidan. Stödfoten pekar mot ko
 
 | Tid | Moment | Beskrivning |
 |-----|--------|-------------|
-| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par. Fokus idag: **passa och spring till ny position** — passa, spring runt sin kon, ta emot igen. Inkludera hopp och balans (FIFA 11+ Kids). |
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera hopp och balans (FIFA 11+ Kids). |
 | 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
 | 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). Idag utan specialregler — fri match. Coachen uppmuntrar passning och rörelse men styr inte. Rotera lag halvtid. |
 | 50–60 min | Avslutning | **[Tunnelkull](https://mbaneryd.github.io/bff-drills/exercises/)** – Alla driver boll. Jagare nuddar — frusna spelare står med benen isär. Räddas genom att en kompis passar bollen genom tunneln! Samling + Bällsta-rop. |
@@ -274,7 +274,7 @@ Tregrupper i triangel, 8–10 m sidor. Passa och flytta — passa till kompis, s
 
 ![Behålla bollen](/bff-drills/images/svff/58382.png)
 
-20×15 m, 4v4 eller 5v5. Lag som gör 5 pass i rad utan att tappa bollen får poäng. **Naturlig passningsträning i spelsituation** — spelarna lär sig hitta fri kompis och röra sig utan boll.
+20×15 m, 2 lag med var sin boll. Passa inom laget — efter passning gör passaren high five med en spelare i andra laget. **Progression:** 2 försvarare bryter (8v2, 1 boll). Rolig passningsträning med rörelse!
 
 {{< /col >}}
 {{< /two-col >}}
@@ -285,6 +285,399 @@ Tregrupper i triangel, 8–10 m sidor. Passa och flytta — passa till kompis, s
 
 **Ledartips:** Triangelpassningen kräver att barnen tänker ett steg framåt — vart ska jag efter passet? Om det är för svårt, börja med att stå still och bara passa runt. Behålla bollen-spelet är självgående och populärt. Räkna högt tillsammans!
 
-**Källor:** [JSK #7 Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/) · [#10 Nöta](/bff-drills/exercises/jsk/jsk_7_9_10/) · [SvFF #292 Passa 2](/bff-drills/exercises/svff/292/) · [#58382 Behålla bollen](/bff-drills/exercises/svff/58382/)
+**Källor:** [JSK #7 Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/) · [SvFF #292 Passa 2](/bff-drills/exercises/svff/292/) · [#58382 Behålla bollen](/bff-drills/exercises/svff/58382/)
+
+{{< /highlight-box >}}
+
+---
+
+## Block 3: Pressa och bryta
+
+*Vecka 39–40*
+
+{{< card >}}
+
+Defensivt block som kontrast efter två offensiva. Barnen har bättre spelkänsla nu efter hela våren + två höstblock. Nytt inslag: enkel omställning — vinn boll, anfalla snabbt. Närmast pressar, övriga täcker.
+
+{{< /card >}}
+
+### Träning 1: Bolltjuven är tillbaka!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera sidosteg (FIFA 11+ Kids). |
+| 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). **Bonusregel: mål inom 5 sekunder efter bollvinst räknas dubbelt!** Motiverar snabb omställning. Rotera lag halvtid. |
+| 50–60 min | Avslutning | **[Kinesiska muren](/bff-drills/exercises/jsk/jsk_7_9_28/)** – Driva förbi försvarare på en linje. Försvararnas perspektiv: stäng ner, vinn bollen! Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< card >}}
+
+{{< two-col >}}
+{{< col "anfall" >}}
+
+#### Övning A — Färdighetsövning
+
+**[Ta bollen](/bff-drills/exercises/svff/276/)**
+
+![Ta bollen](/bff-drills/images/svff/276.png)
+
+15×15 m, två lag. Lag A har bollar, lag B försöker ta dem. Byt efter 1 minut. Hög aktivitet — alla får många försök. Beröm att man **vågar gå mot bollen.**
+
+{{< /col >}}
+{{< col "forsvar" >}}
+
+#### Övning B — Spelövning
+
+**[Spelövning ta bollen](/bff-drills/exercises/svff/277/)**
+
+![Spelövning ta bollen](/bff-drills/images/svff/277.png)
+
+20×15 m, 2 mål med MV. MV rullar ut boll, 1v1 — försvararen försöker erövra och skjuta på motståndarens mål. **Vinn boll → anfalla direkt.** Snabb omställning i miniatyr.
+
+{{< /col >}}
+{{< /two-col >}}
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Beröm modet att gå mot bollen, inte bara lyckade brytningar. Dubbelpoäng-regeln i 5v5 gör att barnen pressar utan att vi behöver coacha taktiskt.
+
+**Källor:** [SvFF #276 Ta bollen](/bff-drills/exercises/svff/276/) · [#277 Spelövning ta bollen](/bff-drills/exercises/svff/277/) · [JSK #28 Kinesiska muren](/bff-drills/exercises/jsk/jsk_7_9_28/)
+
+{{< /highlight-box >}}
+
+---
+
+### Träning 2: Vinn tillbaka bollen!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera hopp och balans (FIFA 11+ Kids). |
+| 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). Fri match utan specialregler. Coachen uppmuntrar press efter bollförlust. Rotera lag halvtid. |
+| 50–60 min | Avslutning | **[VM](/bff-drills/exercises/jsk/jsk_7_9_22/)** – Alla driver boll i fyrkant, sparka ut andras bollar. Försvar + anfall i en lek! Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< card >}}
+
+{{< two-col >}}
+{{< col "anfall" >}}
+
+#### Övning A — Färdighetsövning
+
+**[Markera](/bff-drills/exercises/svff/290/)**
+
+![Markera](/bff-drills/images/svff/290.png)
+
+15×10 m, 3 spelare. A passar till B, C markerar och hindrar vidare passning. Kroppen mellan boll och spelare. **Lär ut grundläggande markering** utan taktikspråk — "stå mellan bollen och din kompis."
+
+{{< /col >}}
+{{< col "forsvar" >}}
+
+#### Övning B — Spelövning
+
+**[Ledstjärnan](/bff-drills/exercises/jsk/jsk_7_9_15/)**
+
+![Ledstjärnan](/bff-drills/images/jsk/jsk_7_9_15.jpg)
+
+1v1 mot konmål. Variera startställning (sittande, liggande, ryggen mot). Den som vinner bollen anfaller direkt. **Omställning i varje rep** — från försvar till anfall och tillbaka.
+
+{{< /col >}}
+{{< /two-col >}}
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Markering är svårt att förstå för 8-åringar. Använd enkla ord: *"Kan du stå så att bollen inte kan komma till din kompis?"* Ledstjärnan med varierade startställningar tränar reaktion och omställning — barnen älskar det.
+
+**Källor:** [SvFF #290 Markera](/bff-drills/exercises/svff/290/) · [JSK #15 Ledstjärnan](/bff-drills/exercises/jsk/jsk_7_9_15/) · [#22 VM](/bff-drills/exercises/jsk/jsk_7_9_22/)
+
+{{< /highlight-box >}}
+
+---
+
+## Block 4: Avslut och göra mål
+
+*Vecka 41–42*
+
+{{< card >}}
+
+Offensivt igen. Repetition av vårens skjut-block men nu med mer kombination: passa + skjut, driva + skjut, avslut efter väggspel. Barnen har bättre teknik nu och kan kombinera flera moment.
+
+{{< /card >}}
+
+### Träning 1: Skottfest!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera sidosteg och hopp (FIFA 11+ Kids). |
+| 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m) med MV-rotation. **Bonusregel: skott utanför straffområdet räknas dubbelt!** Uppmuntrar avslut. Rotera lag halvtid. |
+| 50–60 min | Avslutning | **[Alla inne](/bff-drills/exercises/jsk/jsk_7_9_1/)** – Alla driver boll fritt i en fyrkant. På ledarens kommando gör alla ett moment — fint, vändning, stopp. Kul och hög aktivitet! Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< card >}}
+
+{{< two-col >}}
+{{< col "anfall" >}}
+
+#### Övning A — Färdighetsövning
+
+**[Isolerade skott](/bff-drills/exercises/svff/58429/)**
+
+![Isolerade skott](/bff-drills/images/svff/58429.png)
+
+Skjut mot mål från 8–10 m. Fokus: **stödfoten bredvid bollen, vristen spänd, tårna ner.** Variera insida och vrist. Hämta egen boll — hög aktivitet.
+
+{{< /col >}}
+{{< col "forsvar" >}}
+
+#### Övning B — Spelövning
+
+**[Spelövning skjuta 3v2+MV](/bff-drills/exercises/svff/259/)**
+
+![Spelövning skjuta 3v2+MV](/bff-drills/images/svff/259.png)
+
+20×15 m, 3v2 + målvakt. Anfallande lag i övertal — skapar naturliga avslutslägen. **Kombination → avslut.** Byt roller efter varje anfall.
+
+{{< /col >}}
+{{< /two-col >}}
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Undvik att rätta skotteknik för mycket — beröm att de skjuter. 3v2+MV ger spelarna övertal och tid att hitta läge, perfekt för att träna avslut i spelsituation.
+
+**Källor:** [SvFF #58429 Isolerade skott](/bff-drills/exercises/svff/58429/) · [#259 Spelövning skjuta](/bff-drills/exercises/svff/259/) · [JSK #1 Alla inne](/bff-drills/exercises/jsk/jsk_7_9_1/)
+
+{{< /highlight-box >}}
+
+---
+
+### Träning 2: Passa och skjut!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera hopp och balans (FIFA 11+ Kids). |
+| 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m) med MV-rotation. Fri match — coachen uppmuntrar avslut men styr inte. Rotera lag halvtid. |
+| 50–60 min | Avslutning | **Skottutmaning** – Alla skjuter mot mål från olika avstånd. Vem träffar krysset? Vem kan göra mål med "fel fot"? Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< card >}}
+
+{{< two-col >}}
+{{< col "anfall" >}}
+
+#### Övning A — Färdighetsövning
+
+**[Avslut med väggspel](/bff-drills/exercises/jsk/jsk_7_9_14/)**
+
+![Avslut med väggspel](/bff-drills/images/jsk/jsk_7_9_14.jpg)
+
+Spelare A passar till väggspelare B, får bollen tillbaka och skjuter. **Kombination → avslut** — kopplar ihop passning och skott. Byt väggspelare var 5:e rep.
+
+{{< /col >}}
+{{< col "forsvar" >}}
+
+#### Övning B — Spelövning
+
+**[Spelövning skjuta 3v3+MV](/bff-drills/exercises/svff/262/)**
+
+![Spelövning skjuta 3v3+MV](/bff-drills/images/svff/262.png)
+
+20×15 m, 3v3 + målvakt. Jämnt antal nu — spelarna måste skapa egna avslutslägen. **Mer matchlikt** än 3v2. Byt lag efter varje mål.
+
+{{< /col >}}
+{{< /two-col >}}
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Avslut med väggspel kopplar ihop block 2 (passning) med skottträning — barnen ser att passningen har ett syfte. Om väggspelet är för svårt, kör utan väggspelare och låt dem driva + skjut istället.
+
+**Källor:** [JSK #14 Avslut med väggspel](/bff-drills/exercises/jsk/jsk_7_9_14/) · [SvFF #262 Spelövning skjuta](/bff-drills/exercises/svff/262/)
+
+{{< /highlight-box >}}
+
+---
+
+## Block 5: Samspel
+
+*Vecka 43–44*
+
+{{< card >}}
+
+Hitta fri kompis, spelbredd, rörelse utan boll. Barnen har nu repeterat driva, passa och skjuta under hösten — nu kombinerar vi allt. Steg mot Nivå 2: "Jag, bollen och kompisen." Nytt inslag: joker-spel (neutral spelare som skapar övertal).
+
+{{< /card >}}
+
+### Träning 1: Hitta din kompis!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera sidosteg och hopp (FIFA 11+ Kids). |
+| 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). **Nytt: en joker** (neutral spelare som alltid spelar med det lag som har boll — ger övertal och uppmuntrar passning). Rotera joker var 5:e min. |
+| 50–60 min | Avslutning | **Tunnelkull** – Alla driver boll. Jagare nuddar — frusna spelare står med benen isär. Räddas genom att en kompis passar bollen genom tunneln! Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< card >}}
+
+{{< two-col >}}
+{{< col "anfall" >}}
+
+#### Övning A — Färdighetsövning
+
+**[Träffa mittbollen](/bff-drills/exercises/svff/296/)**
+
+![Träffa mittbollen](/bff-drills/images/svff/296.png)
+
+20×20 m, 2 lag med var sin boll. En avvikande boll i mitten — **passa den egna bollen så att mittbollen rullar över motståndarens linje.** Poäng! Tränar passningsprecision och kraft i en tävling.
+
+{{< /col >}}
+{{< col "forsvar" >}}
+
+#### Övning B — Spelövning
+
+**[Spelövning passa 3v3+MV+neutrala](/bff-drills/exercises/svff/294/)**
+
+![Spelövning passa](/bff-drills/images/svff/294.png)
+
+20×15 m, 3v3 + MV + neutrala spelare. Neutrala spelar alltid med laget som har boll — **samma joker-princip som i matchspelet.** Naturligt samspel i spelsituation.
+
+{{< /col >}}
+{{< /two-col >}}
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Joker i 5v5 är nytt — förklara enkelt: *"Den i gul väst spelar alltid med det lag som har bollen."* Beröm rörelse utan boll: *"Bra att du sprang dit!"*
+
+**Källor:** [SvFF #296 Träffa mittbollen](/bff-drills/exercises/svff/296/) · [#294 Spelövning passa](/bff-drills/exercises/svff/294/)
+
+{{< /highlight-box >}}
+
+---
+
+### Träning 2: Spela brett!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera hopp och balans (FIFA 11+ Kids). |
+| 10–25 min | 2 övningar | Se stationer nedan. ~6 barn/grupp, 7–8 min per övning, en rotation. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). Fortsätt med **joker** — barnen har testat det i träning 1 och förstår nu. Fri match. Rotera lag halvtid. |
+| 50–60 min | Avslutning | **[Stoppljuset](/bff-drills/exercises/jsk/jsk_7_9_25/)** – Alla driver boll. Men idag med **passningsregler**: vid "Grönt" → passa till närmaste kompis istället för att driva! Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< card >}}
+
+{{< two-col >}}
+{{< col "anfall" >}}
+
+#### Övning A — Färdighetsövning
+
+**[Cirkeln](/bff-drills/exercises/jsk/jsk_7_9_5/)**
+
+![Cirkeln](/bff-drills/images/jsk/jsk_7_9_5.jpg)
+
+8–16 spelare i en cirkel (radie 10–15 m). Bollhållare driver in mot mitten, passar till valfri spelare, **byter plats med mottagaren.** Progression: lägg till fler bollar samtidigt.
+
+{{< /col >}}
+{{< col "forsvar" >}}
+
+#### Övning B — Spelövning
+
+**[Behålla bollen](/bff-drills/exercises/svff/58382/)**
+
+![Behålla bollen](/bff-drills/images/svff/58382.png)
+
+20×15 m, 2 lag med var sin boll. Passa inom laget — efter passning gör passaren high five med en spelare i andra laget. **Progression:** 2 försvarare bryter (8v2, 1 boll) — naturligt samspel under press.
+
+{{< /col >}}
+{{< /two-col >}}
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Cirkeln med valfri passning kräver ögonkontakt — börja med att bara passa runt. Behålla bollen med joker knyter ihop hela blocket — samspel i en riktig spelform.
+
+**Källor:** [JSK #5 Cirkeln](/bff-drills/exercises/jsk/jsk_7_9_5/) · [SvFF #58382 Behålla bollen](/bff-drills/exercises/svff/58382/) · [JSK #25 Stoppljuset](/bff-drills/exercises/jsk/jsk_7_9_25/)
+
+{{< /highlight-box >}}
+
+---
+
+## Block 6: Allt ihop — vi spelar!
+
+*Vecka 45–46 · Säsongsavslut*
+
+{{< card >}}
+
+Alla färdigheter integreras fritt — driva, vända, passa, bryta, skjuta, samspela. Minimal coachning, maximal glädje. Barnen visar vad de lärt sig genom 40+ veckor av strukturerad träning. Sista passet kan vara en intern minicup!
+
+{{< /card >}}
+
+### Träning 1: Allting på en gång!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Inkludera FIFA 11+ Kids. |
+| 10–25 min | 2 övningar | Barnens val! Ledarna erbjuder 2–3 favoritövningar från hösten och barnen röstar. Dubblera som vanligt. |
+| 25–50 min | 5v5 matchspel | 5v5 på 2 parallella planer (30×20 m). **Fri match — inga bonusregler.** Spelarna använder allt de lärt sig. Coachen njuter och berömmer. Rotera lag halvtid. |
+| 50–60 min | Avslutning | **[Kinesiska muren](/bff-drills/exercises/jsk/jsk_7_9_28/)** – Alla mot alla, driva förbi försvarare. Klassisk avslutning! Samling + Bällsta-rop. |
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Låt barnen välja övningar — det ger dem ägarskap och visar vad de gillade mest. Ingen ny teknik idag, bara spel och glädje.
+
+{{< /highlight-box >}}
+
+---
+
+### Träning 2: Minicup!
+
+{{< card >}}
+
+| Tid | Moment | Beskrivning |
+|-----|--------|-------------|
+| 0–10 min | Samling + lek | **[Vän med bollen](/bff-drills/exercises/jsk/jsk_7_9_7/)** – Par delar på en boll, 2 koner per par på 15–20 m. Driva fram och tillbaka. Variera fot och tempo. Sista uppvärmningen för säsongen! |
+| 10–50 min | Minicup! | **Intern turnering:** Dela in i 4–5 lag, spela 5v5 på 2 planer. Korta matcher (6–7 min), alla möter alla. **Alla lag vinner något** — bästa lagnamn, flest fintar, roligaste mål, bästa samspel. |
+| 50–60 min | Avslutning | **Prisutdelning + firande!** Alla får beröm för hösten. Vad var bäst? Vad vill ni träna på till våren? Stort Bällsta-rop! |
+
+{{< /card >}}
+
+{{< highlight-box >}}
+
+**Ledartips:** Förbered lagnamn och "priser" (beröm-kategorier, inte fysiska priser). Varje lag ska vinna något. Fråga barnen vad de vill träna på till våren — det ger input till nästa plans blockval.
 
 {{< /highlight-box >}}
