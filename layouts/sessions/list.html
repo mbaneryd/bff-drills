@@ -33,10 +33,17 @@
     {{ range $all }}{{ with .Params.ageGroup }}{{ $ages = $ages | append . }}{{ end }}{{ end }}
     {{ range (uniq (sort $ages)) }}<option value="{{ . }}">{{ . }} år</option>{{ end }}
   </select>
+  <div class="level-btns">
+    <button class="level-btn" data-lvl="3v3">3v3</button>
+    <button class="level-btn" data-lvl="5v5">5v5</button>
+    <button class="level-btn" data-lvl="7v7">7v7</button>
+    <button class="level-btn" data-lvl="9v9">9v9</button>
+    <button class="level-btn" data-lvl="11v11">11v11</button>
+  </div>
 </div>
 <main><div class="session-grid" id="grid"></div></main>
 <script>
-const DATA = [{{ range $i, $p := $all }}{{ if $i }},{{ end }}{{ dict "id" (default "" $p.Params.sessionId) "title" $p.Title "href" $p.RelPermalink "source" (default "" $p.Params.source) "category" (default "" $p.Params.category) "topic" (default "" $p.Params.topic) "exerciseCount" (default 0 $p.Params.exerciseCount) "ageGroup" (default "" $p.Params.ageGroup) "gameFormat" (default "" $p.Params.gameFormat) "totalMinutes" (default 0 $p.Params.totalMinutes) | jsonify | safeJS }}{{ end }}];
+const DATA = [{{ range $i, $p := $all }}{{ if $i }},{{ end }}{{ dict "id" (default "" $p.Params.sessionId) "title" $p.Title "href" $p.RelPermalink "source" (default "" $p.Params.source) "category" (default "" $p.Params.category) "topic" (default "" $p.Params.topic) "exerciseCount" (default 0 $p.Params.exerciseCount) "ageGroup" (default "" $p.Params.ageGroup) "gameFormat" (default "" $p.Params.gameFormat) "totalMinutes" (default 0 $p.Params.totalMinutes) "levels" (default (dict) $p.Params.levels) | jsonify | safeJS }}{{ end }}];
 
 const grid = document.getElementById('grid');
 const countEl = document.getElementById('count');
@@ -44,7 +51,9 @@ const qEl = document.getElementById('q');
 const catEl = document.getElementById('cat');
 const ageEl = document.getElementById('age');
 const srcBtns = document.querySelectorAll('.src-btn');
+const lvlBtns = document.querySelectorAll('.level-btn');
 let activeSrc = 'all';
+let activeLevels = new Set();
 
 function render() {
   const q = qEl.value.toLowerCase();
@@ -55,6 +64,10 @@ function render() {
     if (q && !s.title.toLowerCase().includes(q) && !(s.topic||'').toLowerCase().includes(q) && !(s.category||'').toLowerCase().includes(q)) return false;
     if (cat && s.category !== cat) return false;
     if (age && s.ageGroup !== age) return false;
+    if (activeLevels.size > 0) {
+      const hasLevel = [...activeLevels].some(l => s.levels && s.levels[l]);
+      if (!hasLevel) return false;
+    }
     return true;
   });
   countEl.textContent = filtered.length + ' pass';
@@ -69,10 +82,12 @@ function render() {
     const minsBadge = s.totalMinutes ? `<span class="tag-mins">${s.totalMinutes} min</span>` : '';
     const catBadge = s.category ? `<span class="tag-cat">${s.category}</span>` : '';
     const topicBadge = s.topic ? `<span class="tag-topic">${s.topic}</span>` : '';
+    const lvlTags = Object.entries(s.levels||{}).filter(([,v])=>v).map(([k])=>`<span class="tag-lvl">${k}</span>`).join('');
     return `<a class="session-card" href="${s.href}">
       <div class="card-title">${s.title}</div>
       <div class="card-tags">
         ${jskBadge}${sikBadge}${ageBadge}${fmtBadge}${catBadge}${topicBadge}${minsBadge}
+        ${lvlTags}
         <span class="tag-count">${s.exerciseCount} övningar</span>
       </div>
     </a>`;
@@ -88,6 +103,12 @@ srcBtns.forEach(btn => btn.addEventListener('click', () => {
 qEl.addEventListener('input', render);
 catEl.addEventListener('change', render);
 ageEl.addEventListener('change', render);
+lvlBtns.forEach(btn => btn.addEventListener('click', () => {
+  const l = btn.dataset.lvl;
+  if (activeLevels.has(l)) { activeLevels.delete(l); btn.classList.remove('on'); }
+  else { activeLevels.add(l); btn.classList.add('on'); }
+  render();
+}));
 
 function syncToHash() {
   const p = new URLSearchParams();
@@ -95,6 +116,7 @@ function syncToHash() {
   if (qEl.value) p.set('q', qEl.value);
   if (catEl.value) p.set('cat', catEl.value);
   if (ageEl.value) p.set('age', ageEl.value);
+  if (activeLevels.size) p.set('levels', [...activeLevels].join(','));
   const h = p.toString();
   history.replaceState(null, '', h ? '#' + h : location.pathname + location.search);
 }
@@ -105,7 +127,9 @@ function loadFromHash() {
   qEl.value = p.get('q') || '';
   catEl.value = p.get('cat') || '';
   ageEl.value = p.get('age') || '';
+  activeLevels = new Set((p.get('levels') || '').split(',').filter(Boolean));
   srcBtns.forEach(b => b.classList.toggle('on', b.dataset.src === activeSrc));
+  lvlBtns.forEach(b => b.classList.toggle('on', activeLevels.has(b.dataset.lvl)));
   render();
 }
 

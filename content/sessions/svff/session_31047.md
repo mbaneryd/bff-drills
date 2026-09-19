@@ -6,6 +6,12 @@ sessionId: "31047"
 source: "svff_ovningsbanken"
 category: "Fotbollsfys"
 topic: "Fotbollsstyrka, -rörlighet och -koordination"
+levels:
+  "3v3": false
+  "5v5": false
+  "7v7": true
+  "9v9": true
+  "11v11": true
 exerciseCount: 20
 totalMinutes: 0
 sourceUrl: "https://ovningsbanken.svenskfotboll.se/fotboll/tranare/ovningsbanken/traningspass/ShowWorkout/?id=31047"

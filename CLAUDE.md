@@ -4,10 +4,10 @@ A browsable football exercise bank for youth coaching at Bällsta FF. Built with
 
 ## Data scope
 
-- **420 SvFF exercises** — from Svenska Fotbollförbundets Övningsbanken, filtered to 3v3, 5v5, and 7v7
+- **864 SvFF exercises** — from Svenska Fotbollförbundets Övningsbanken, all levels (3v3, 5v5, 7v7, 9v9, 11v11)
 - **71 JSK exercises** — extracted from Järna Sportklubb PDFs (7–9 år 5v5, 10–12 år 7v7)
 - **61 SIK exercises** — extracted from Sundbybergs IK training session PDFs (5v5)
-- **142 training sessions** — 92 SvFF + 38 JSK + 12 SIK
+- **199 training sessions** — 149 SvFF + 38 JSK + 12 SIK
 - **Reference pages** — SIK årsplan, JSK träningsplanering
 
 ## File structure
